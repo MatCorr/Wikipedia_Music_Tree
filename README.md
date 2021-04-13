@@ -14,7 +14,7 @@ Take the following excerpt extracted from the Wikipedia article on [The Rolling 
 
 *"Having a charting single gave the band entree to play outside London, starting with a booking at the Outlook Club in Middlesbrough on 13 July, sharing the billing with **the Hollies**. Later in 1963 Oldham and Easton arranged the band's first big UK concert tour as a supporting act for American stars including **Bo Diddley**, **Little Richard** and the **Everly Brothers**. The tour gave the band the opportunity to hone their stagecraft. During the tour the band recorded their second single, a **Lennon–McCartney**-penned number entitled 'I Wanna Be Your Man'. The song was written and given to the Stones when **John Lennon** and **Paul McCartney** visited them in the studio as the two Beatles liked giving the copyrights to songs away to their friends."*
 
-In just a few sentences, then, we see how The Rolling Stones have historical links to many other artists. And this happens throughout the band's article as well as those from other bands and musicians around Wikipedia.
+In just a few sentences we see how The Rolling Stones have historical links to many other artists. And this happens throughout the band's article as well as those from other bands and musicians around Wikipedia.
 
 The question, then, is: what insights can be produced via these links and mentions? In order to find out, the first step is building a dataset that maps these links throughout Wikipedia and stores them neatly in a file. This is the main purpose of this repository, and with the code stored here (just a few scripts), we will go from building this dataset to being able to produce data visualizations such as this one.
 
