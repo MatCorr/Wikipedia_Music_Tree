@@ -95,6 +95,6 @@ Some of these directories are empty, but they have been added to the repository 
 
 This one is just for show. I added PDF and PNG versions of the visualizations I created in Gephi with this dataset. Again, the former format is better because these graphs have a lot of small details that can only be seen by zooming in, and doing that in the image is nearly impossible because of their limited quality. With PDFs, there is no such problem and it is possible to explore the graphs as much as it is desired.
 
-Just as an added note on these images, the size of the nodes and the size of the artists' names correspond to how many links there are coming in and out of their articles. Meanwhile, the thickness of the edges is related to the number of mentions between artists: a very thick line between R.E.M. and The Minus 5, as seen below, shows their articles refer to one another quite a bit.
+Just as an added note on these images, the size of the nodes and the size of the artists' names correspond to how many links there are coming in and out of their articles. Meanwhile, the thickness of the edges is related to the number of mentions between artists: a very thick line between R.E.M. and The Minus 5, as seen below, shows their articles refer to one another quite a bit. Plus, with the configuration in which the graph was generated, there is no distinction made between incoming and outgoing links; they are joined in the same edge.
 
 ![R.E.M. - Links](images/rem_mentions_from.png)
