@@ -1,0 +1,389 @@
+Source,Target,Weight
+U2,Bruce Springsteen,2
+U2,Buzzcocks,1
+U2,David Bowie,1
+U2,Elvis Presley,1
+U2,Green Day,3
+U2,Paul Simon,1
+U2,Ramones,1
+U2,Sex Pistols,1
+U2,Siouxsie and the Banshees,1
+U2,The Clash,2
+U2,The Who,3
+311 (band),Bad Brains,1
+311 (band),The Clash,1
+Mott the Hoople,David Bowie,4
+Mott the Hoople,The Go,1
+The Specials,General Public,3
+The Specials,Joe Strummer,1
+The Specials,Stiff Little Fingers,1
+The Specials,The Clash,3
+The Specials,The Go,1
+The Specials,The Libertines,2
+The Specials,The Stranglers,1
+David Bowie,Dave Grohl,1
+David Bowie,Elvis Presley,3
+David Bowie,Mott the Hoople,1
+David Bowie,The Who,1
+David Bowie,U2,2
+The 101ers,Joe Strummer,9
+The 101ers,Public Image Ltd,2
+The 101ers,Sex Pistols,2
+The 101ers,The Clash,7
+The 101ers,The Pogues,1
+Arctic Monkeys,The Strokes,2
+Jakob Dylan,Buzzcocks,1
+Jakob Dylan,The Clash,2
+Jakob Dylan,The Wallflowers,50
+Jakob Dylan,The Who,3
+Rancid (band),Bad Religion,1
+Rancid (band),Dropkick Murphys,1
+Rancid (band),Green Day,1
+Rancid (band),NOFX,3
+Rancid (band),Rise Against,1
+Rancid (band),The Clash,1
+Ramones,Bad Brains,1
+Ramones,Bad Religion,2
+Ramones,Dave Grohl,1
+Ramones,Green Day,3
+Ramones,Paul Simon,1
+Ramones,Rancid (band),2
+Ramones,Sex Pistols,2
+Ramones,The Clash,3
+Ramones,The Damned (band),1
+Ramones,The Strokes,1
+Ramones,The Who,1
+Ramones,U2,1
+Bad Religion,Green Day,2
+Bad Religion,NOFX,3
+Bad Religion,Ramones,1
+Bad Religion,Rancid (band),2
+Bad Religion,Rise Against,2
+Bad Religion,Sex Pistols,1
+Bad Religion,Stiff Little Fingers,1
+Bad Religion,The Clash,1
+Die Toten Hosen,Bad Religion,1
+Die Toten Hosen,Green Day,1
+Die Toten Hosen,Ramones,1
+Die Toten Hosen,Sex Pistols,2
+Die Toten Hosen,U2,2
+The Go,The White Stripes,2
+Anti-Flag,David Bowie,1
+Anti-Flag,NOFX,1
+Anti-Flag,Rise Against,1
+Anti-Flag,The Clash,1
+The Wallflowers,David Bowie,3
+The Wallflowers,Jakob Dylan,14
+The Wallflowers,The Who,1
+Chuck D,Public Enemy,17
+Chuck D,The Go,3
+No Doubt,311 (band),1
+No Doubt,Sublime (band),1
+No Doubt,The Clash,2
+Big Audio Dynamite,Carbon/Silicon,2
+Big Audio Dynamite,General Public,3
+Big Audio Dynamite,Gorillaz,1
+Big Audio Dynamite,Joe Strummer,2
+Big Audio Dynamite,London SS,1
+Big Audio Dynamite,Public Image Ltd,1
+Big Audio Dynamite,The Clash,17
+Big Audio Dynamite,U2,2
+Bruce Springsteen,Dave Grohl,1
+Bruce Springsteen,Dropkick Murphys,1
+Bruce Springsteen,Elvis Presley,2
+Bruce Springsteen,Joe Strummer,1
+Bruce Springsteen,No Doubt,1
+Bruce Springsteen,The Clash,1
+Bruce Springsteen,U2,5
+Carbon/Silicon,Big Audio Dynamite,3
+Carbon/Silicon,London SS,1
+Carbon/Silicon,The Clash,4
+Green Day,Bad Religion,2
+Green Day,Buzzcocks,3
+Green Day,John Lydon,1
+Green Day,NOFX,1
+Green Day,Ramones,5
+Green Day,Rancid (band),3
+Green Day,Sex Pistols,3
+Green Day,Sublime (band),2
+Green Day,The Clash,3
+Green Day,The White Stripes,1
+Green Day,The Who,3
+Green Day,U2,2
+Rise Against,Anti-Flag,2
+Rise Against,Bad Brains,1
+Rise Against,Bad Religion,2
+Rise Against,NOFX,1
+Rise Against,Ramones,1
+Rise Against,Rancid (band),1
+Rise Against,The Go,2
+Babyshambles,Joe Strummer,1
+Babyshambles,The Clash,3
+Babyshambles,The Libertines,8
+The Stranglers,The Go,5
+NOFX,Bad Religion,8
+NOFX,Green Day,2
+NOFX,Ramones,1
+NOFX,Rancid (band),6
+NOFX,Sex Pistols,1
+The Libertines,Babyshambles,9
+The Libertines,Buzzcocks,1
+The Libertines,Sex Pistols,3
+The Libertines,The Clash,7
+The Libertines,The Pogues,1
+The Libertines,The Strokes,2
+The Libertines,The Vines (band),1
+The Pogues,Dropkick Murphys,2
+The Pogues,Joe Strummer,7
+The Pogues,Ramones,1
+The Teardrop Explodes,Big in Japan (band),2
+The Teardrop Explodes,Siouxsie and the Banshees,1
+The Teardrop Explodes,The Specials,1
+The Vines (band),The Hives,1
+The Vines (band),The Strokes,2
+The Vines (band),The White Stripes,1
+The Who,Bruce Springsteen,1
+The Who,David Bowie,1
+The Who,Green Day,1
+The Who,John Lydon,1
+The Who,Ramones,1
+The Who,The Clash,2
+The Who,U2,1
+"The Good, the Bad & the Queen",Gorillaz,2
+"The Good, the Bad & the Queen",Joe Strummer,1
+"The Good, the Bad & the Queen",Paul Simon,4
+"The Good, the Bad & the Queen",The Clash,2
+"The Good, the Bad & the Queen",The Go,16
+Public Enemy,Chuck D,34
+Public Enemy,Manic Street Preachers,1
+John Lydon,Public Image Ltd,21
+John Lydon,Sex Pistols,37
+John Lydon,Siouxsie and the Banshees,1
+John Lydon,The Clash,1
+John Lydon,The Slits,1
+The Damned (band),David Bowie,1
+The Damned (band),Joe Strummer,1
+The Damned (band),London SS,2
+The Damned (band),Ramones,2
+The Damned (band),Sex Pistols,4
+The Damned (band),The Clash,4
+The Damned (band),The Go,1
+The Strokes,Arctic Monkeys,2
+The Strokes,The Clash,1
+The Strokes,The White Stripes,1
+Dropkick Murphys,Anti-Flag,1
+Dropkick Murphys,Bruce Springsteen,5
+Dropkick Murphys,Joe Strummer,2
+Dropkick Murphys,Rancid (band),3
+Dropkick Murphys,Sex Pistols,1
+Dropkick Murphys,Stiff Little Fingers,1
+Dropkick Murphys,The Clash,3
+Dropkick Murphys,The Pogues,1
+Stiff Little Fingers,Bad Religion,1
+Garageland,The Clash,1
+Dave Grohl,Arctic Monkeys,1
+Dave Grohl,Bad Brains,1
+Dave Grohl,Bruce Springsteen,2
+Dave Grohl,David Bowie,4
+Dave Grohl,Joe Strummer,1
+Dave Grohl,No Doubt,1
+Dave Grohl,Siouxsie and the Banshees,1
+Sex Pistols,Buzzcocks,3
+Sex Pistols,Elvis Presley,1
+Sex Pistols,Green Day,1
+Sex Pistols,Joe Strummer,1
+Sex Pistols,John Lydon,7
+Sex Pistols,NOFX,1
+Sex Pistols,Public Image Ltd,2
+Sex Pistols,Ramones,5
+Sex Pistols,Siouxsie and the Banshees,4
+Sex Pistols,Subway Sect,2
+Sex Pistols,The 101ers,1
+Sex Pistols,The Clash,4
+Sex Pistols,The Damned (band),3
+Sex Pistols,The Slits,1
+Sex Pistols,The Who,3
+Buzzcocks,Rancid (band),1
+Buzzcocks,Siouxsie and the Banshees,1
+Buzzcocks,Subway Sect,1
+Buzzcocks,The Clash,1
+Buzzcocks,The Damned (band),1
+London SS,Joe Strummer,1
+London SS,Sex Pistols,1
+London SS,The Clash,5
+London SS,The Damned (band),1
+Maldita Vecindad,Café Tacuba,2
+Maldita Vecindad,Los Fabulosos Cadillacs,1
+Maldita Vecindad,Mano Negra (band),1
+Siouxsie and the Banshees,Massive Attack,1
+Siouxsie and the Banshees,Sex Pistols,4
+Siouxsie and the Banshees,The Slits,1
+Siouxsie and the Banshees,U2,1
+Attaque 77,Sex Pistols,1
+Attaque 77,The Clash,1
+The Futureheads,The Fut,21
+The Futureheads,The Go,1
+Café Tacuba,Maldita Vecindad,1
+Café Tacuba,The Clash,1
+Café Tacuba,The Who,1
+Joe Strummer,Big Audio Dynamite,1
+Joe Strummer,Bruce Springsteen,1
+Joe Strummer,Dave Grohl,1
+Joe Strummer,Die Toten Hosen,1
+Joe Strummer,Dropkick Murphys,1
+Joe Strummer,London SS,1
+Joe Strummer,Paul Simon,1
+Joe Strummer,Ramones,2
+Joe Strummer,Sex Pistols,5
+Joe Strummer,Stiff Little Fingers,1
+Joe Strummer,The 101ers,16
+Joe Strummer,The Clash,37
+Joe Strummer,The Pogues,10
+Joe Strummer,The Slits,2
+Joe Strummer,U2,1
+The Slits,Buzzcocks,1
+The Slits,Joe Strummer,1
+The Slits,Sex Pistols,1
+The Slits,Siouxsie and the Banshees,2
+The Slits,Subway Sect,1
+The Slits,The Clash,2
+Massive Attack,Siouxsie and the Banshees,1
+Havana 3am,Paul Simon,3
+Havana 3am,The Clash,1
+The Cortinas (punk band),The Clash,3
+The Cortinas (punk band),The Stranglers,1
+Aztec Camera,Big Audio Dynamite,1
+Aztec Camera,Joe Strummer,1
+Aztec Camera,The Clash,7
+Elvis Presley,Public Enemy,4
+Manic Street Preachers,Bruce Springsteen,1
+Manic Street Preachers,David Bowie,3
+Manic Street Preachers,Massive Attack,1
+Manic Street Preachers,Norther,1
+Manic Street Preachers,Public Enemy,2
+Manic Street Preachers,Public Image Ltd,1
+Manic Street Preachers,Sex Pistols,1
+Manic Street Preachers,Siouxsie and the Banshees,2
+Manic Street Preachers,The Clash,5
+Van Halen,Sex Pistols,1
+The White Stripes,The Go,5
+The White Stripes,The Who,1
+Los Prisioneros,Aztec Camera,1
+Los Prisioneros,Bruce Springsteen,1
+Los Prisioneros,The Clash,4
+Los Prisioneros,The Specials,1
+Los Prisioneros,The Stranglers,1
+Sublime (band),Bad Brains,2
+Sublime (band),Bad Religion,1
+Sublime (band),No Doubt,4
+Sublime (band),Norther,1
+Sublime (band),Public Enemy,2
+Sublime (band),The Specials,2
+Big in Japan (band),Siouxsie and the Banshees,2
+Big in Japan (band),The Slits,1
+Big in Japan (band),The Teardrop Explodes,4
+Gorillaz,Arctic Monkeys,1
+Gorillaz,Big Audio Dynamite,1
+Gorillaz,Massive Attack,1
+Gorillaz,Paul Simon,4
+Gorillaz,Public Image Ltd,1
+Gorillaz,The Specials,3
+Bad Brains,311 (band),1
+Bad Brains,Ramones,1
+Bad Brains,Sex Pistols,1
+Bad Brains,Sublime (band),1
+Subway Sect,Elvis Presley,1
+Subway Sect,Joe Strummer,1
+Subway Sect,Sex Pistols,4
+Subway Sect,Siouxsie and the Banshees,1
+Subway Sect,The Clash,4
+Subway Sect,The Slits,1
+999 (band),Buzzcocks,1
+999 (band),The Clash,2
+999 (band),The Stranglers,2
+General Public,Big Audio Dynamite,1
+General Public,The Clash,5
+General Public,The Specials,3
+Public Image Ltd,John Lydon,6
+Public Image Ltd,Sex Pistols,12
+Public Image Ltd,Siouxsie and the Banshees,1
+Public Image Ltd,The 101ers,1
+Public Image Ltd,The Clash,2
+Public Image Ltd,The Damned (band),2
+Public Image Ltd,The Slits,1
+The Clash,311 (band),1
+The Clash,999 (band),1
+The Clash,Anti-Flag,1
+The Clash,Arctic Monkeys,1
+The Clash,Attaque 77,1
+The Clash,Aztec Camera,1
+The Clash,Babyshambles,1
+The Clash,Bad Brains,1
+The Clash,Bad Religion,1
+The Clash,Big Audio Dynamite,2
+The Clash,Big in Japan (band),1
+The Clash,Blue Öyster Cult,1
+The Clash,Bruce Springsteen,3
+The Clash,Buzzcocks,2
+The Clash,Café Tacuba,1
+The Clash,Carbon/Silicon,2
+The Clash,Chuck D,2
+The Clash,Dave Grohl,1
+The Clash,David Bowie,1
+The Clash,Die Toten Hosen,1
+The Clash,Dropkick Murphys,2
+The Clash,Elvis Presley,2
+The Clash,Garageland,2
+The Clash,General Public,1
+The Clash,Gorillaz,3
+The Clash,Green Day,1
+The Clash,Havana 3am,2
+The Clash,Jakob Dylan,1
+The Clash,Joe Strummer,15
+The Clash,John Lydon,1
+The Clash,John Rich,2
+The Clash,London SS,8
+The Clash,Los Fabulosos Cadillacs,1
+The Clash,Los Prisioneros,1
+The Clash,Maldita Vecindad,1
+The Clash,Manic Street Preachers,1
+The Clash,Mano Negra (band),1
+The Clash,Massive Attack,1
+The Clash,Mott the Hoople,1
+The Clash,NOFX,1
+The Clash,No Doubt,1
+The Clash,Norther,1
+The Clash,Paul Simon,9
+The Clash,Pete Burns,1
+The Clash,Public Enemy,3
+The Clash,Public Image Ltd,2
+The Clash,Ramones,2
+The Clash,Rancid (band),3
+The Clash,Rise Against,1
+The Clash,Sex Pistols,17
+The Clash,Siouxsie and the Banshees,1
+The Clash,Stiff Little Fingers,1
+The Clash,Sublime (band),1
+The Clash,Subway Sect,2
+The Clash,The 101ers,2
+The Clash,The Cortinas (punk band),1
+The Clash,The Damned (band),2
+The Clash,The Fut,1
+The Clash,The Futureheads,1
+The Clash,The Go,1
+The Clash,"The Good, the Bad & the Queen",1
+The Clash,The Hives,1
+The Clash,The Libertines,1
+The Clash,The Pogues,1
+The Clash,The Slits,2
+The Clash,The Specials,1
+The Clash,The Stranglers,2
+The Clash,The Strokes,1
+The Clash,The Teardrop Explodes,1
+The Clash,The Vines (band),1
+The Clash,The Wallflowers,1
+The Clash,The White Stripes,1
+The Clash,The Who,1
+The Clash,Traffic (band),1
+The Clash,U2,2
+The Clash,Van Halen,1

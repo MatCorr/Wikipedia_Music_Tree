@@ -1,0 +1,412 @@
+Source,Target,Weight
+Paul McCartney,Billy Preston,1
+Paul McCartney,Bob Dylan,1
+Paul McCartney,Buddy Holly,4
+Paul McCartney,Carl Perkins,1
+Paul McCartney,Chuck Berry,2
+Paul McCartney,Dick James,2
+Paul McCartney,Elton John,1
+Paul McCartney,Elvis Presley,3
+Paul McCartney,Eric Clapton,2
+Paul McCartney,George Harrison,5
+Paul McCartney,John Lennon,10
+Paul McCartney,Lennon–McCartney,4
+Paul McCartney,Linda McCartney,8
+Paul McCartney,Michael Jackson,4
+Paul McCartney,Norther,7
+Paul McCartney,Paul McCartney and Wings,4
+Paul McCartney,Ringo Starr,5
+Paul McCartney,The Beatles,123
+Paul McCartney,The Crickets,1
+Paul McCartney,The Everly Brothers,1
+Paul McCartney,The Quarrymen,7
+Paul McCartney,Yello,6
+Paul McCartney,Yoko Ono,3
+The Beach Boys,Bob Dylan,3
+The Beach Boys,Chuck Berry,5
+The Beach Boys,Frank Zappa,1
+The Beach Boys,Paul McCartney,1
+The Beach Boys,Roy Orbison,1
+The Beach Boys,The Beatles,23
+The Beach Boys,The Byrds,1
+The Beach Boys,The Everly Brothers,1
+The Beach Boys,The Kinks,1
+The Beach Boys,The Lovin' Spoonful,1
+The Beach Boys,The Rolling Stones,3
+The Beach Boys,The Who,2
+John Lennon,Bob Dylan,1
+John Lennon,Elton John,4
+John Lennon,Elvis Presley,1
+John Lennon,Eric Clapton,1
+John Lennon,George Harrison,5
+John Lennon,I Me,1
+John Lennon,Lennon–McCartney,5
+John Lennon,Norther,3
+John Lennon,Paul McCartney,6
+John Lennon,Plastic Ono Band,10
+John Lennon,Ringo Starr,3
+John Lennon,The Beatles,78
+John Lennon,The Quarrymen,8
+John Lennon,The Rolling Stones,3
+John Lennon,Yello,2
+John Lennon,Yoko Ono,18
+Peter Frampton,Bee Gees,3
+Peter Frampton,Billy Preston,1
+Peter Frampton,Buddy Holly,2
+Peter Frampton,Eddie Cochran,1
+Peter Frampton,Ringo Starr,4
+Peter Frampton,The Beatles,4
+Peter Frampton,The Rolling Stones,1
+Peter Frampton,The Who,1
+Chuck Berry,Bob Dylan,1
+Chuck Berry,Buddy Holly,2
+Chuck Berry,Carl Perkins,2
+Chuck Berry,Elvis Presley,1
+Chuck Berry,Eric Clapton,1
+Chuck Berry,John Lennon,1
+Chuck Berry,The Beach Boys,2
+Chuck Berry,The Beatles,3
+Chuck Berry,The Kinks,1
+Chuck Berry,The Rolling Stones,4
+Rory Storm,Chuck Berry,1
+Rory Storm,Elvis Presley,1
+Rory Storm,George Harrison,3
+Rory Storm,John Lennon,2
+Rory Storm,Paul McCartney,4
+Rory Storm,Ringo Starr,7
+Rory Storm,The Beatles,14
+Rory Storm,The Everly Brothers,2
+Rory Storm,The Quarrymen,2
+The Animals,Bob Dylan,1
+The Animals,Chuck Berry,1
+The Animals,Sam Cooke,1
+The Animals,The Dave Clark Five,1
+The Everly Brothers,Buddy Holly,1
+The Everly Brothers,Elvis Presley,1
+The Everly Brothers,John Lennon,1
+The Everly Brothers,Paul McCartney,2
+The Everly Brothers,The Beach Boys,2
+The Everly Brothers,The Beatles,3
+The Everly Brothers,The Crickets,1
+The Quarrymen,Buddy Holly,4
+The Quarrymen,Carl Perkins,1
+The Quarrymen,Elvis Presley,1
+The Quarrymen,George Harrison,6
+The Quarrymen,John Lennon,7
+The Quarrymen,Lennon–McCartney,1
+The Quarrymen,Paul McCartney,6
+The Quarrymen,Ringo Starr,1
+The Quarrymen,Rory Storm,1
+The Quarrymen,The Beatles,16
+The Quarrymen,The Crickets,1
+The Crickets,Buddy Holly,21
+The Crickets,Eric Clapton,3
+The Crickets,The Beatles,2
+Bee Gees,Chuck Berry,1
+Bee Gees,Elvis Presley,2
+Bee Gees,Eric Clapton,2
+Bee Gees,John Lennon,2
+Bee Gees,Michael Jackson,2
+Bee Gees,Paul McCartney,2
+Bee Gees,Peter Frampton,1
+Bee Gees,Roy Orbison,1
+Bee Gees,The Beach Boys,2
+Bee Gees,The Beatles,13
+Bee Gees,The Everly Brothers,1
+Bee Gees,The Rolling Stones,2
+Carl Perkins,Bob Dylan,1
+Carl Perkins,Chuck Berry,2
+Carl Perkins,Elvis Presley,6
+Carl Perkins,Eric Clapton,2
+Carl Perkins,George Harrison,3
+Carl Perkins,John Lennon,1
+Carl Perkins,Paul McCartney,4
+Carl Perkins,Ringo Starr,4
+Carl Perkins,Roy Orbison,4
+Carl Perkins,The Animals,1
+Carl Perkins,The Beatles,7
+Dick James,Elton John,2
+Dick James,George Harrison,1
+Dick James,John Lennon,1
+Dick James,Norther,6
+Dick James,Paul McCartney,1
+Dick James,Ringo Starr,1
+Dick James,The Beatles,5
+Elvis Presley,Bob Dylan,1
+Elvis Presley,Carl Perkins,4
+Elvis Presley,Chuck Berry,1
+Elvis Presley,John Lennon,1
+Elvis Presley,Paul McCartney,1
+Elvis Presley,Roy Orbison,1
+Elvis Presley,The Beatles,11
+The Beatles,Bee Gees,1
+The Beatles,Billy Preston,5
+The Beatles,Bob Dylan,3
+The Beatles,Buddy Holly,3
+The Beatles,Carl Perkins,1
+The Beatles,Chuck Berry,1
+The Beatles,Clou,2
+The Beatles,Dick James,1
+The Beatles,Eddie Cochran,1
+The Beatles,Elton John,1
+The Beatles,Elvis Presley,3
+The Beatles,Eric Clapton,2
+The Beatles,Frank Zappa,2
+The Beatles,George Harrison,12
+The Beatles,I Me,1
+The Beatles,John Lennon,17
+The Beatles,Lennon–McCartney,7
+The Beatles,Linda McCartney,2
+The Beatles,Michael Jackson,2
+The Beatles,Norther,15
+The Beatles,Paul McCartney,16
+The Beatles,Paul McCartney and Wings,1
+The Beatles,Peter Frampton,1
+The Beatles,Petula Clark,1
+The Beatles,Plastic Ono Band,2
+The Beatles,Ringo Starr,8
+The Beatles,Rory Storm,1
+The Beatles,Roy Orbison,4
+The Beatles,Sam Cooke,1
+The Beatles,The Animals,1
+The Beatles,The Beach Boys,3
+The Beatles,The Byrds,2
+The Beatles,The Crickets,1
+The Beatles,The Dave Clark Five,1
+The Beatles,The Everly Brothers,2
+The Beatles,The Kinks,2
+The Beatles,The Lovin' Spoonful,1
+The Beatles,The Quarrymen,2
+The Beatles,The Rolling Stones,2
+The Beatles,The Who,1
+The Beatles,Within Y,2
+The Beatles,Yello,12
+The Beatles,Yoko Ono,4
+The Dave Clark Five,The Beatles,3
+Plastic Ono Band,Billy Preston,5
+Plastic Ono Band,Eric Clapton,5
+Plastic Ono Band,Frank Zappa,2
+Plastic Ono Band,George Harrison,5
+Plastic Ono Band,John Lennon,16
+Plastic Ono Band,Paul McCartney,1
+Plastic Ono Band,Ringo Starr,3
+Plastic Ono Band,The Beatles,13
+Plastic Ono Band,The Rolling Stones,2
+Plastic Ono Band,The Who,1
+Plastic Ono Band,Yoko Ono,19
+The Rolling Stones,Billy Preston,2
+The Rolling Stones,Bob Dylan,2
+The Rolling Stones,Buddy Holly,1
+The Rolling Stones,Chuck Berry,8
+The Rolling Stones,Elvis Presley,1
+The Rolling Stones,Eric Clapton,2
+The Rolling Stones,John Lennon,2
+The Rolling Stones,Lennon–McCartney,1
+The Rolling Stones,Paul McCartney,1
+The Rolling Stones,Peter Frampton,1
+The Rolling Stones,The Beatles,12
+The Rolling Stones,The Everly Brothers,1
+The Rolling Stones,The Who,2
+The Rolling Stones,Yoko Ono,1
+Michael Jackson,Elvis Presley,3
+Michael Jackson,The Beatles,5
+Buddy Holly,Bob Dylan,3
+Buddy Holly,Elton John,2
+Buddy Holly,Elvis Presley,3
+Buddy Holly,Eric Clapton,2
+Buddy Holly,John Lennon,2
+Buddy Holly,Paul McCartney,2
+Buddy Holly,The Beatles,7
+Buddy Holly,The Crickets,25
+Buddy Holly,The Everly Brothers,3
+Buddy Holly,The Quarrymen,1
+Buddy Holly,The Rolling Stones,3
+Linda McCartney,Bob Dylan,1
+Linda McCartney,Elton John,1
+Linda McCartney,Eric Clapton,1
+Linda McCartney,George Harrison,1
+Linda McCartney,John Lennon,3
+Linda McCartney,Michael Jackson,1
+Linda McCartney,Norther,1
+Linda McCartney,Paul McCartney,26
+Linda McCartney,Paul McCartney and Wings,2
+Linda McCartney,Ringo Starr,1
+Linda McCartney,The Animals,1
+Linda McCartney,The Beatles,7
+Linda McCartney,The Rolling Stones,1
+Linda McCartney,The Who,1
+Linda McCartney,Yoko Ono,1
+George Harrison,Billy Preston,5
+George Harrison,Bob Dylan,4
+George Harrison,Buddy Holly,1
+George Harrison,Carl Perkins,7
+George Harrison,Chuck Berry,2
+George Harrison,Clou,11
+George Harrison,Elton John,1
+George Harrison,Elvis Presley,1
+George Harrison,Eric Clapton,9
+George Harrison,I Me,1
+George Harrison,John Lennon,8
+George Harrison,Lennon–McCartney,2
+George Harrison,Paul McCartney,2
+George Harrison,Plastic Ono Band,1
+George Harrison,Ringo Starr,5
+George Harrison,Rory Storm,1
+George Harrison,Roy Orbison,1
+George Harrison,The Beatles,81
+George Harrison,The Byrds,4
+George Harrison,The Quarrymen,4
+George Harrison,Within Y,7
+George Harrison,Yello,2
+George Harrison,Yoko Ono,1
+Bob Dylan,Chuck Berry,1
+Bob Dylan,Elton John,1
+Bob Dylan,Elvis Presley,2
+Bob Dylan,Eric Clapton,1
+Bob Dylan,George Harrison,6
+Bob Dylan,John Lennon,5
+Bob Dylan,Paul McCartney,1
+Bob Dylan,Roy Orbison,1
+Bob Dylan,The Beatles,3
+Bob Dylan,The Byrds,7
+Bob Dylan,Yoko Ono,1
+The Byrds,Bob Dylan,12
+The Byrds,Roy Orbison,1
+The Byrds,The Beach Boys,1
+The Byrds,The Beatles,13
+The Byrds,The Rolling Stones,3
+The Who,Bob Dylan,2
+The Who,Buddy Holly,1
+The Who,Elton John,6
+The Who,Eric Clapton,2
+The Who,John Lennon,1
+The Who,Paul McCartney,2
+The Who,The Animals,2
+The Who,The Beach Boys,1
+The Who,The Beatles,3
+The Who,The Kinks,3
+The Who,The Rolling Stones,4
+Sam Cooke,Billy Preston,1
+Sam Cooke,Buddy Holly,2
+Eddie Cochran,Buddy Holly,2
+Eddie Cochran,Elvis Presley,1
+Eddie Cochran,Paul McCartney,2
+Eddie Cochran,The Beach Boys,1
+Eddie Cochran,The Beatles,2
+Eddie Cochran,The Quarrymen,1
+Eddie Cochran,The Rolling Stones,1
+Eddie Cochran,The Who,3
+The Kinks,Peter Frampton,1
+The Kinks,The Beatles,8
+The Kinks,The Rolling Stones,1
+The Kinks,The Who,4
+Billy Preston,Elton John,1
+Billy Preston,Eric Clapton,15
+Billy Preston,George Harrison,16
+Billy Preston,John Lennon,7
+Billy Preston,Paul McCartney,2
+Billy Preston,Peter Frampton,1
+Billy Preston,Ringo Starr,12
+Billy Preston,Sam Cooke,7
+Billy Preston,The Beatles,22
+Billy Preston,The Rolling Stones,16
+The Lovin' Spoonful,John Lennon,1
+The Lovin' Spoonful,Paul McCartney,1
+The Lovin' Spoonful,The Beatles,1
+The Lovin' Spoonful,The Kinks,1
+Elton John,Bee Gees,1
+Elton John,Buddy Holly,1
+Elton John,Dick James,2
+Elton John,Elvis Presley,1
+Elton John,Eric Clapton,5
+Elton John,George Harrison,1
+Elton John,John Lennon,3
+Elton John,Paul McCartney,2
+Elton John,The Beatles,3
+Elton John,The Who,2
+Petula Clark,Elvis Presley,1
+Petula Clark,John Lennon,1
+Petula Clark,Plastic Ono Band,1
+Petula Clark,The Everly Brothers,1
+Eric Clapton,Bee Gees,1
+Eric Clapton,Billy Preston,3
+Eric Clapton,Bob Dylan,3
+Eric Clapton,Buddy Holly,2
+Eric Clapton,Clou,4
+Eric Clapton,Elton John,6
+Eric Clapton,Frank Zappa,1
+Eric Clapton,George Harrison,13
+Eric Clapton,John Lennon,3
+Eric Clapton,Paul McCartney,2
+Eric Clapton,Plastic Ono Band,3
+Eric Clapton,Ringo Starr,2
+Eric Clapton,The Beatles,9
+Eric Clapton,The Rolling Stones,3
+Eric Clapton,The Who,3
+Ringo Starr,Bob Dylan,2
+Ringo Starr,Buddy Holly,2
+Ringo Starr,Carl Perkins,2
+Ringo Starr,Elton John,3
+Ringo Starr,Eric Clapton,2
+Ringo Starr,Frank Zappa,1
+Ringo Starr,George Harrison,4
+Ringo Starr,John Lennon,5
+Ringo Starr,Lennon–McCartney,2
+Ringo Starr,Norther,2
+Ringo Starr,Paul McCartney,6
+Ringo Starr,Plastic Ono Band,5
+Ringo Starr,Rory Storm,9
+Ringo Starr,The Beatles,102
+Ringo Starr,The Who,2
+Ringo Starr,Yello,5
+Ringo Starr,Yoko Ono,4
+Roy Orbison,Bee Gees,2
+Roy Orbison,Bob Dylan,5
+Roy Orbison,Carl Perkins,6
+Roy Orbison,Clou,2
+Roy Orbison,Elton John,1
+Roy Orbison,Elvis Presley,8
+Roy Orbison,George Harrison,3
+Roy Orbison,John Lennon,1
+Roy Orbison,The Beach Boys,1
+Roy Orbison,The Beatles,5
+Roy Orbison,The Rolling Stones,2
+Frank Zappa,Bob Dylan,2
+Frank Zappa,John Lennon,1
+Frank Zappa,Paul McCartney,1
+Frank Zappa,Ringo Starr,1
+Frank Zappa,The Beatles,5
+Frank Zappa,Yello,5
+Frank Zappa,Yoko Ono,2
+Paul McCartney and Wings,George Harrison,2
+Paul McCartney and Wings,John Lennon,3
+Paul McCartney and Wings,Linda McCartney,24
+Paul McCartney and Wings,Paul McCartney,67
+Paul McCartney and Wings,Ringo Starr,1
+Paul McCartney and Wings,The Beatles,11
+Paul McCartney and Wings,The Who,1
+Yoko Ono,Eric Clapton,3
+Yoko Ono,Frank Zappa,1
+Yoko Ono,George Harrison,2
+Yoko Ono,John Lennon,46
+Yoko Ono,Lennon–McCartney,3
+Yoko Ono,Linda McCartney,1
+Yoko Ono,Paul McCartney,4
+Yoko Ono,Plastic Ono Band,19
+Yoko Ono,Ringo Starr,4
+Yoko Ono,The Beatles,26
+Lennon–McCartney,Buddy Holly,1
+Lennon–McCartney,Chuck Berry,1
+Lennon–McCartney,Eddie Cochran,1
+Lennon–McCartney,Elton John,1
+Lennon–McCartney,Elvis Presley,1
+Lennon–McCartney,George Harrison,5
+Lennon–McCartney,John Lennon,7
+Lennon–McCartney,Paul McCartney,9
+Lennon–McCartney,Plastic Ono Band,1
+Lennon–McCartney,Ringo Starr,3
+Lennon–McCartney,The Beatles,33
+Lennon–McCartney,The Everly Brothers,1
+Lennon–McCartney,The Quarrymen,9
+Lennon–McCartney,The Rolling Stones,1
+Lennon–McCartney,Yoko Ono,1

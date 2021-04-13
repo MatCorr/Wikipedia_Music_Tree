@@ -1,0 +1,745 @@
+Source,Target,Weight
+Oasis (band),Bob Dylan,1
+Oasis (band),David Bowie,1
+Oasis (band),Neil Young,2
+Oasis (band),Nirvana (band),1
+Oasis (band),The Who,2
+"Crosby, Stills, Nash & Young",Bob Dylan,2
+"Crosby, Stills, Nash & Young",Buffalo Springfield,17
+"Crosby, Stills, Nash & Young",Crazy Horse (band),4
+"Crosby, Stills, Nash & Young",David Crosby,13
+"Crosby, Stills, Nash & Young",James Taylor,1
+"Crosby, Stills, Nash & Young",Joni Mitchell,5
+"Crosby, Stills, Nash & Young",Neil Young,23
+"Crosby, Stills, Nash & Young",Rick Danko,1
+"Crosby, Stills, Nash & Young",Rick James,1
+"Crosby, Stills, Nash & Young",The Band,1
+"Crosby, Stills, Nash & Young",The Who,1
+Elvis Presley,Bob Dylan,1
+Elvis Presley,Chet Atkins,1
+Elvis Presley,Chuck Berry,1
+Elvis Presley,Fats Domino,2
+Elvis Presley,Jerry Lee Lewis,2
+Elvis Presley,John Lennon,1
+Elvis Presley,Johnny Cash,2
+Elvis Presley,Nas,25
+Elvis Presley,Paul McCartney,1
+Elvis Presley,Roy Orbison,1
+Nas,Dave Matthews,1
+Astrid Young,David Bowie,1
+Astrid Young,Neil Young,12
+Foo Fighters,Kurt Cobain,4
+Foo Fighters,Nirvana (band),13
+Foo Fighters,Paul McCartney,1
+Foo Fighters,Pearl Jam,1
+Foo Fighters,Tom Petty,2
+Foo Fighters,Tom Petty and the Heartbreakers,1
+Spoon (band),Pixies (band),2
+Spoon (band),Tom Petty,3
+R.E.M.,Eddie Vedder,2
+R.E.M.,John Lennon,2
+R.E.M.,Kurt Cobain,1
+R.E.M.,Nirvana (band),3
+R.E.M.,Paul McCartney,1
+R.E.M.,Pearl Jam,2
+R.E.M.,Radiohead,1
+R.E.M.,Sonic Youth,1
+Lynyrd Skynyrd,Drive-By Truckers,1
+Lynyrd Skynyrd,Hank Williams,1
+Lynyrd Skynyrd,Nas,1
+Lynyrd Skynyrd,Neil Young,1
+Lynyrd Skynyrd,Powderfinger,2
+Lynyrd Skynyrd,Ronnie Van Zant,8
+Lynyrd Skynyrd,The Who,1
+Willie Nelson,Bob Dylan,2
+Willie Nelson,Chet Atkins,1
+Willie Nelson,David Bowie,1
+Willie Nelson,Elton John,1
+Willie Nelson,Elvis Presley,1
+Willie Nelson,Emmylou Harris,2
+Willie Nelson,Hank Williams,1
+Willie Nelson,Johnny Cash,8
+Willie Nelson,Lukas Nelson & Promise of the Real,2
+Willie Nelson,Nas,11
+Willie Nelson,Neil Young,4
+Willie Nelson,Phish,1
+Willie Nelson,Roy Orbison,2
+Soundgarden,Foo Fighters,1
+Soundgarden,Kurt Cobain,2
+Soundgarden,Metallica,3
+Soundgarden,Nine Inch Nails,1
+Soundgarden,Nirvana (band),5
+Soundgarden,Pearl Jam,14
+Soundgarden,Red Hot Chili Peppers,1
+Soundgarden,The Smashing Pumpkins,2
+Lukas Nelson & Promise of the Real,Neil Young,16
+Lukas Nelson & Promise of the Real,Pearl Jam,1
+Lukas Nelson & Promise of the Real,Soundgarden,1
+Lukas Nelson & Promise of the Real,The Mo,7
+Lukas Nelson & Promise of the Real,Willie Nelson,11
+Devo,David Bowie,2
+Devo,Foo Fighters,1
+Devo,Neil Young,2
+Devo,Nine Inch Nails,1
+Devo,Soundgarden,1
+David Crosby,Bob Dylan,2
+David Crosby,Buffalo Springfield,4
+David Crosby,"Crosby, Stills, Nash & Young",10
+David Crosby,Elton John,1
+David Crosby,James Taylor,1
+David Crosby,Joni Mitchell,2
+David Crosby,Neil Young,4
+David Crosby,The Mo,2
+David Crosby,The Monkees,1
+Blind Melon,John Lennon,1
+Blind Melon,Neil Young,1
+Blind Melon,Pearl Jam,2
+Blind Melon,Soundgarden,1
+Barenaked Ladies,Bob Dylan,1
+Barenaked Ladies,Dave Matthews,3
+Barenaked Ladies,John Lennon,1
+Barenaked Ladies,Michael Jackson,2
+Barenaked Ladies,Paul McCartney,1
+Barenaked Ladies,Phish,2
+Barenaked Ladies,The Mo,1
+Hank Marvin,Buddy Holly,1
+Hank Marvin,Neil Young,1
+Hank Marvin,Randy Bachman,1
+Nicolette Larson,Astrid Young,1
+Nicolette Larson,Emmylou Harris,4
+Nicolette Larson,Linda Ronstadt,3
+Nicolette Larson,Nas,5
+Nicolette Larson,Neil Young,10
+Vic Chesnutt,Nas,1
+Vic Chesnutt,R.E.M.,2
+Vic Chesnutt,Soul Asylum,1
+Vic Chesnutt,The Smashing Pumpkins,1
+Social Distortion,Bob Dylan,2
+Social Distortion,Bruce Springsteen,1
+Social Distortion,Foo Fighters,1
+Social Distortion,Hank Williams,1
+Social Distortion,Johnny Cash,5
+Social Distortion,Pearl Jam,1
+Metallica,Elton John,1
+Metallica,Red Hot Chili Peppers,1
+Metallica,The Mo,1
+Paul McCartney,Bob Dylan,1
+Paul McCartney,Buddy Holly,4
+Paul McCartney,Chrissie Hynde,1
+Paul McCartney,Chuck Berry,2
+Paul McCartney,David Bowie,2
+Paul McCartney,Devo,1
+Paul McCartney,Elton John,1
+Paul McCartney,Elvis Presley,3
+Paul McCartney,Fats Domino,1
+Paul McCartney,Foo Fighters,1
+Paul McCartney,John Lennon,10
+Paul McCartney,Michael Jackson,4
+Paul McCartney,Nirvana (band),1
+Paul McCartney,Norther,7
+Paul McCartney,The Mo,3
+Bruce Springsteen,Bob Dylan,3
+Bruce Springsteen,Dave Matthews,1
+Bruce Springsteen,Eddie Vedder,1
+Bruce Springsteen,Elvis Presley,2
+Bruce Springsteen,Nas,1
+Bruce Springsteen,Pearl Jam,1
+Bruce Springsteen,R.E.M.,1
+The Ventures,Chet Atkins,2
+The Ventures,Norther,1
+The Ventures,The Who,1
+The Stills,Paul McCartney,1
+Buffalo Springfield,Crazy Horse (band),1
+Buffalo Springfield,"Crosby, Stills, Nash & Young",6
+Buffalo Springfield,David Crosby,3
+Buffalo Springfield,Neil Young,13
+Buffalo Springfield,Rick James,1
+Buffalo Springfield,The Mo,2
+Buffalo Springfield,The Monkees,2
+Buffalo Springfield,The Mynah Birds,3
+Buffalo Springfield,The Squires,1
+Buddy Holly,Bob Dylan,3
+Buddy Holly,Bruce Springsteen,1
+Buddy Holly,Elton John,2
+Buddy Holly,Elvis Presley,3
+Buddy Holly,Hank Williams,1
+Buddy Holly,Jerry Lee Lewis,1
+Buddy Holly,John Lennon,2
+Buddy Holly,Nas,7
+Buddy Holly,Paul McCartney,2
+Emmylou Harris,Bob Dylan,5
+Emmylou Harris,Chuck Berry,1
+Emmylou Harris,Elvis Presley,2
+Emmylou Harris,Johnny Cash,3
+Emmylou Harris,Joni Mitchell,1
+Emmylou Harris,Linda Ronstadt,21
+Emmylou Harris,Nas,9
+Emmylou Harris,Neil Young,8
+Emmylou Harris,Nick Cave,1
+Emmylou Harris,Roy Orbison,2
+Emmylou Harris,The Band,2
+Emmylou Harris,Willie Nelson,7
+Nick Cave,Bob Dylan,2
+Nick Cave,David Bowie,1
+Nick Cave,Hank Williams,1
+Nick Cave,Johnny Cash,6
+Nick Cave,Metallica,1
+Nick Cave,Neil Young,3
+The Monkees,John Lennon,3
+The Monkees,Neil Young,3
+The Monkees,Paul McCartney,3
+The Monkees,Sug,4
+The Monkees,The Mo,277
+The Monkees,The Who,2
+The Squires,Buffalo Springfield,1
+The Squires,Crazy Horse (band),1
+The Squires,Neil Young,6
+The Squires,Sug,2
+The Squires,The Ventures,1
+Hank Williams,Bob Dylan,2
+Hank Williams,Chuck Berry,1
+Hank Williams,Elvis Presley,2
+Hank Williams,Jack White,2
+Hank Williams,Jerry Lee Lewis,2
+Hank Williams,Johnny Cash,2
+Everest (band),Foo Fighters,1
+Everest (band),Neil Young,3
+Rick James,Buffalo Springfield,1
+Rick James,"Crosby, Stills, Nash & Young",1
+Rick James,David Bowie,1
+Rick James,Joni Mitchell,1
+Rick James,Michael Jackson,1
+Rick James,Neil Young,4
+Rick James,The Mynah Birds,4
+Tegan and Sara,Bruce Springsteen,1
+Tegan and Sara,David Bowie,1
+Tegan and Sara,Elton John,1
+Tegan and Sara,Neil Young,2
+Tegan and Sara,Nirvana (band),1
+Tegan and Sara,R.E.M.,1
+Tegan and Sara,The Smashing Pumpkins,1
+Tegan and Sara,Tom Petty,1
+Phish,Blues Traveler,1
+Phish,Bob Dylan,1
+Phish,Bruce Springsteen,2
+Phish,Elton John,1
+Phish,Nas,2
+Phish,Radiohead,2
+Phish,Red Hot Chili Peppers,1
+Phish,Sug,2
+Phish,The Who,1
+Blues Traveler,Dave Matthews,1
+Blues Traveler,Fats Domino,1
+Blues Traveler,John Lennon,3
+Blues Traveler,Phish,1
+Chuck Berry,Bob Dylan,1
+Chuck Berry,Bruce Springsteen,2
+Chuck Berry,Buddy Holly,2
+Chuck Berry,David Bowie,1
+Chuck Berry,Elvis Presley,1
+Chuck Berry,John Lennon,1
+Chuck Berry,Linda Ronstadt,1
+Randy Bachman,Chet Atkins,1
+Randy Bachman,Elvis Presley,1
+Randy Bachman,Hank Marvin,1
+Randy Bachman,Neil Young,1
+Randy Bachman,The Guess Who,22
+Tom Petty,Bob Dylan,3
+Tom Petty,Chuck Berry,1
+Tom Petty,Elvis Presley,1
+Tom Petty,Johnny Cash,3
+Tom Petty,Pearl Jam,1
+Tom Petty,Red Hot Chili Peppers,1
+Tom Petty,Roy Orbison,3
+Tom Petty,Tom Petty and the Heartbreakers,29
+Mike McCready,Eddie Vedder,5
+Mike McCready,Hank Williams,1
+Mike McCready,Neil Young,7
+Mike McCready,Pearl Jam,45
+Mike McCready,Red Hot Chili Peppers,1
+Mike McCready,Social Distortion,1
+Mike McCready,Soundgarden,4
+Nine Inch Nails,David Bowie,4
+Nine Inch Nails,Devo,1
+Nine Inch Nails,Elton John,1
+Nine Inch Nails,Foo Fighters,1
+Nine Inch Nails,Johnny Cash,1
+Nine Inch Nails,Soundgarden,1
+Nine Inch Nails,Trent Reznor,13
+The Mynah Birds,Buffalo Springfield,4
+The Mynah Birds,Neil Young,8
+The Mynah Birds,Rick James,6
+The Mynah Birds,The Band,1
+Tom Petty and the Heartbreakers,Bob Dylan,5
+Tom Petty and the Heartbreakers,Bruce Springsteen,2
+Tom Petty and the Heartbreakers,Fats Domino,2
+Tom Petty and the Heartbreakers,Foo Fighters,1
+Tom Petty and the Heartbreakers,Johnny Cash,3
+Tom Petty and the Heartbreakers,Neil Young,2
+Tom Petty and the Heartbreakers,Nirvana (band),1
+Tom Petty and the Heartbreakers,Pearl Jam,1
+Tom Petty and the Heartbreakers,Roy Orbison,1
+Tom Petty and the Heartbreakers,Tom Petty,55
+Bob Dylan,Bruce Springsteen,4
+Bob Dylan,Chuck Berry,1
+Bob Dylan,David Bowie,2
+Bob Dylan,David Crosby,1
+Bob Dylan,Eddie Vedder,1
+Bob Dylan,Elton John,1
+Bob Dylan,Elvis Presley,2
+Bob Dylan,Hank Williams,2
+Bob Dylan,John Lennon,5
+Bob Dylan,Johnny Cash,7
+Bob Dylan,Joni Mitchell,4
+Bob Dylan,Kenny Buttrey,1
+Bob Dylan,Nas,14
+Bob Dylan,Neil Young,2
+Bob Dylan,Nick Cave,1
+Bob Dylan,Paul McCartney,1
+Bob Dylan,Roy Orbison,1
+Bob Dylan,Sonic Youth,1
+Bob Dylan,The Band,21
+Bob Dylan,Tom Petty,4
+Bob Dylan,Tom Petty and the Heartbreakers,2
+Bob Dylan,Tom Waits,1
+Bob Dylan,Willie Nelson,2
+The Chant,Sonic Youth,1
+The Chant,The Mo,1
+The Chant,The Monkees,1
+The Who,Bob Dylan,2
+The Who,Bruce Springsteen,1
+The Who,Buddy Holly,1
+The Who,David Bowie,1
+The Who,Eddie Vedder,2
+The Who,Elton John,6
+The Who,John Lennon,1
+The Who,Nas,1
+The Who,Neil Young,2
+The Who,Oasis (band),2
+The Who,Paul McCartney,2
+The Who,The Band,1
+The Who,The Ventures,1
+Red Hot Chili Peppers,Devo,1
+Red Hot Chili Peppers,Elvis Presley,1
+Red Hot Chili Peppers,Kurt Cobain,2
+Red Hot Chili Peppers,Metallica,1
+Red Hot Chili Peppers,Neil Young,1
+Red Hot Chili Peppers,Nirvana (band),1
+Red Hot Chili Peppers,Pearl Jam,2
+Red Hot Chili Peppers,Thom Yorke,1
+The Guess Who,Randy Bachman,9
+Drive-By Truckers,Lynyrd Skynyrd,3
+Drive-By Truckers,Neil Young,2
+Drive-By Truckers,Tom Petty,2
+David Blue (musician),Bob Dylan,1
+David Blue (musician),Neil Young,1
+Constantines,Bruce Springsteen,1
+Constantines,Feist (singer),1
+Constantines,Neil Young,3
+Constantines,Nick Cave,1
+Constantines,The Mo,2
+Johnny Cash,Bob Dylan,5
+Johnny Cash,Elvis Presley,3
+Johnny Cash,Hank Williams,1
+Johnny Cash,James Taylor,1
+Johnny Cash,Jerry Lee Lewis,4
+Johnny Cash,Joni Mitchell,1
+Johnny Cash,Linda Ronstadt,1
+Johnny Cash,Nas,15
+Johnny Cash,Neil Young,1
+Johnny Cash,Nine Inch Nails,4
+Johnny Cash,Nirvana (band),1
+Johnny Cash,Paul McCartney,1
+Johnny Cash,Roy Orbison,3
+Johnny Cash,Soundgarden,2
+Johnny Cash,Tom Petty,2
+Johnny Cash,Tom Petty and the Heartbreakers,2
+Johnny Cash,Tom Waits,1
+Johnny Cash,Trent Reznor,1
+Johnny Cash,Willie Nelson,8
+Dave Matthews,Emmylou Harris,2
+Dave Matthews,Johnny Cash,1
+Dave Matthews,Neil Young,2
+Dave Matthews,The Band,3
+Dave Matthews,The Need,1
+Dave Matthews,Willie Nelson,1
+Chrissie Hynde,Devo,3
+Chrissie Hynde,Emmylou Harris,1
+Chrissie Hynde,Neil Young,3
+Chrissie Hynde,Nick Cave,3
+Chrissie Hynde,Paul McCartney,1
+Chrissie Hynde,The Mo,6
+Elton John,Buddy Holly,1
+Elton John,Elvis Presley,1
+Elton John,Jack White,2
+Elton John,Jerry Lee Lewis,3
+Elton John,John Lennon,3
+Elton John,Nas,2
+Elton John,Paul McCartney,2
+Elton John,The Who,2
+Ronnie Van Zant,Drive-By Truckers,1
+Ronnie Van Zant,Lynyrd Skynyrd,14
+Ronnie Van Zant,Neil Young,2
+Ronnie Van Zant,Powderfinger,2
+The Band,Blues Traveler,1
+The Band,Bob Dylan,25
+The Band,"Crosby, Stills, Nash & Young",1
+The Band,Drive-By Truckers,1
+The Band,Elton John,2
+The Band,Emmylou Harris,1
+The Band,Joni Mitchell,1
+The Band,Neil Young,1
+The Band,Norther,3
+The Band,Phish,1
+The Band,Rick Danko,19
+Kenny Buttrey,Bob Dylan,3
+Kenny Buttrey,Chet Atkins,1
+Kenny Buttrey,Chuck Berry,1
+Kenny Buttrey,Elvis Presley,1
+Kenny Buttrey,Nas,4
+Kenny Buttrey,Neil Young,5
+Linda Ronstadt,Bob Dylan,1
+Linda Ronstadt,Bruce Springsteen,1
+Linda Ronstadt,Buddy Holly,5
+Linda Ronstadt,Chuck Berry,2
+Linda Ronstadt,Elton John,1
+Linda Ronstadt,Emmylou Harris,24
+Linda Ronstadt,Hank Williams,2
+Linda Ronstadt,James Taylor,2
+Linda Ronstadt,John Lennon,1
+Linda Ronstadt,Johnny Cash,5
+Linda Ronstadt,Joni Mitchell,4
+Linda Ronstadt,Kurt Cobain,1
+Linda Ronstadt,Michael Jackson,3
+Linda Ronstadt,Neil Young,7
+Linda Ronstadt,Nicolette Larson,1
+Linda Ronstadt,Roy Orbison,1
+Linda Ronstadt,The Mo,2
+Linda Ronstadt,The Monkees,1
+Linda Ronstadt,Tom Petty,1
+Neil Young,Astrid Young,1
+Neil Young,Barenaked Ladies,1
+Neil Young,Blind Melon,1
+Neil Young,Blues Traveler,1
+Neil Young,Bob Dylan,5
+Neil Young,Bruce Springsteen,2
+Neil Young,Buddy Holly,1
+Neil Young,Buffalo Springfield,25
+Neil Young,Chet Atkins,1
+Neil Young,Chrissie Hynde,2
+Neil Young,Chuck Berry,1
+Neil Young,Constantines,1
+Neil Young,Crazy Horse (band),43
+Neil Young,"Crosby, Stills, Nash & Young",10
+Neil Young,Dave Matthews,4
+Neil Young,David Blue (musician),1
+Neil Young,David Bowie,1
+Neil Young,David Crosby,2
+Neil Young,Devo,3
+Neil Young,Drive-By Truckers,1
+Neil Young,Eddie Vedder,4
+Neil Young,Elton John,3
+Neil Young,Elvis Presley,2
+Neil Young,Emmylou Harris,1
+Neil Young,Everest (band),1
+Neil Young,Fats Domino,2
+Neil Young,Feist (singer),1
+Neil Young,Foo Fighters,1
+Neil Young,Hank Marvin,1
+Neil Young,Hank Williams,3
+Neil Young,Jack White,2
+Neil Young,James Taylor,3
+Neil Young,Jerry Lee Lewis,1
+Neil Young,Jets Overhead,1
+Neil Young,John Lennon,2
+Neil Young,Johnny Cash,3
+Neil Young,Joni Mitchell,3
+Neil Young,Kenny Buttrey,1
+Neil Young,Kurt Cobain,4
+Neil Young,Linda Ronstadt,3
+Neil Young,Lukas Nelson & Promise of the Real,3
+Neil Young,Lynyrd Skynyrd,1
+Neil Young,Metallica,1
+Neil Young,Michael Jackson,1
+Neil Young,Mike McCready,1
+Neil Young,Nas,28
+Neil Young,Nick Cave,1
+Neil Young,Nicolette Larson,1
+Neil Young,Nine Inch Nails,1
+Neil Young,Nirvana (band),2
+Neil Young,Norther,4
+Neil Young,Northern Lights (Canadian band),1
+Neil Young,Oasis (band),1
+Neil Young,Paul McCartney,3
+Neil Young,Pearl Jam,11
+Neil Young,Phish,4
+Neil Young,Pixies (band),1
+Neil Young,Powderfinger,3
+Neil Young,R.E.M.,1
+Neil Young,Radiohead,2
+Neil Young,Randy Bachman,2
+Neil Young,Red Hot Chili Peppers,2
+Neil Young,Rick Danko,1
+Neil Young,Rick James,2
+Neil Young,Ronnie Self,1
+Neil Young,Ronnie Van Zant,1
+Neil Young,Roy Orbison,1
+Neil Young,Social Distortion,1
+Neil Young,Sonic Youth,5
+Neil Young,Soul Asylum,1
+Neil Young,Soundgarden,1
+Neil Young,Spoon (band),1
+Neil Young,Sug,3
+Neil Young,Tegan and Sara,1
+Neil Young,The Band,3
+Neil Young,The Bluetones,1
+Neil Young,The Chant,1
+Neil Young,The Chantels,1
+Neil Young,The Ducks,1
+Neil Young,The Fleetwoods,1
+Neil Young,The Guess Who,1
+Neil Young,The Mo,9
+Neil Young,The Monkees,3
+Neil Young,The Monotones,1
+Neil Young,The Mynah Birds,2
+Neil Young,The Need,1
+Neil Young,The Smashing Pumpkins,1
+Neil Young,The Squires,4
+Neil Young,The Stills,2
+Neil Young,The Ventures,1
+Neil Young,The Who,2
+Neil Young,Thom Yorke,2
+Neil Young,Tom Petty,1
+Neil Young,Tom Petty and the Heartbreakers,1
+Neil Young,Tom Waits,1
+Neil Young,Trent Reznor,1
+Neil Young,Unk,1
+Neil Young,Vic Chesnutt,1
+Neil Young,Willie Nelson,4
+The Ducks,Buffalo Springfield,2
+The Ducks,Chuck Berry,2
+The Ducks,Crazy Horse (band),4
+The Ducks,Fats Domino,1
+The Ducks,Neil Young,14
+Kurt Cobain,Bob Dylan,1
+Kurt Cobain,Bruce Springsteen,1
+Kurt Cobain,David Bowie,1
+Kurt Cobain,John Lennon,1
+Kurt Cobain,Metallica,1
+Kurt Cobain,Michael Jackson,1
+Kurt Cobain,Neil Young,1
+Kurt Cobain,Nirvana (band),54
+Kurt Cobain,Pearl Jam,1
+Kurt Cobain,Pixies (band),3
+Kurt Cobain,R.E.M.,5
+Kurt Cobain,Sonic Youth,3
+Kurt Cobain,Soundgarden,1
+Kurt Cobain,The Mo,3
+Kurt Cobain,The Monkees,3
+Kurt Cobain,The Smashing Pumpkins,1
+Trent Reznor,David Bowie,5
+Trent Reznor,Devo,1
+Trent Reznor,Foo Fighters,1
+Trent Reznor,John Lennon,1
+Trent Reznor,Neil Young,1
+Trent Reznor,Nine Inch Nails,59
+Trent Reznor,Nirvana (band),1
+Trent Reznor,Radiohead,1
+Fats Domino,Chuck Berry,1
+Fats Domino,Elton John,2
+Fats Domino,Elvis Presley,3
+Fats Domino,John Lennon,3
+Fats Domino,Nas,2
+Fats Domino,Neil Young,2
+Fats Domino,Paul McCartney,2
+Fats Domino,The Mo,1
+Fats Domino,The Monkees,1
+Fats Domino,Tom Petty,1
+Fats Domino,Willie Nelson,2
+Jerry Lee Lewis,Chuck Berry,3
+Jerry Lee Lewis,Elton John,2
+Jerry Lee Lewis,Elvis Presley,9
+Jerry Lee Lewis,Johnny Cash,11
+Jerry Lee Lewis,Nas,11
+Jerry Lee Lewis,Roy Orbison,6
+Jerry Lee Lewis,Willie Nelson,2
+James Taylor,Bruce Springsteen,1
+James Taylor,Buddy Holly,2
+James Taylor,David Crosby,2
+James Taylor,Devo,2
+James Taylor,Elton John,1
+James Taylor,Joni Mitchell,5
+James Taylor,Linda Ronstadt,1
+James Taylor,Paul McCartney,3
+James Taylor,Sug,1
+James Taylor,Tom Waits,1
+Feist (singer),Radiohead,1
+Joni Mitchell,Bob Dylan,5
+Joni Mitchell,"Crosby, Stills, Nash & Young",4
+Joni Mitchell,David Crosby,4
+Joni Mitchell,Elton John,1
+Joni Mitchell,Emmylou Harris,1
+Joni Mitchell,James Taylor,5
+Joni Mitchell,Linda Ronstadt,1
+Joni Mitchell,Neil Young,1
+Joni Mitchell,Sonic Youth,1
+Joni Mitchell,The Band,2
+Joni Mitchell,Tom Petty,1
+Joni Mitchell,Willie Nelson,1
+Sonic Youth,Joni Mitchell,3
+Sonic Youth,Neil Young,2
+Sonic Youth,Pearl Jam,1
+Sonic Youth,Pixies (band),1
+Powderfinger,David Bowie,1
+Powderfinger,Neil Young,2
+Powderfinger,Nick Cave,1
+Powderfinger,Nirvana (band),1
+Powderfinger,Oasis (band),1
+Powderfinger,Pearl Jam,1
+Powderfinger,The Who,2
+John Lennon,Bob Dylan,1
+John Lennon,David Bowie,4
+John Lennon,Elton John,4
+John Lennon,Elvis Presley,1
+John Lennon,Fats Domino,1
+John Lennon,Norther,3
+John Lennon,Oasis (band),1
+John Lennon,Paul McCartney,6
+Pixies (band),Buddy Holly,1
+Pixies (band),David Bowie,2
+Pixies (band),Hank Williams,1
+Pixies (band),Kurt Cobain,1
+Pixies (band),Neil Young,1
+Pixies (band),Nirvana (band),3
+Pixies (band),Radiohead,3
+Pixies (band),Thom Yorke,1
+Eddie Vedder,Bob Dylan,4
+Eddie Vedder,Bruce Springsteen,2
+Eddie Vedder,Kurt Cobain,1
+Eddie Vedder,Mike McCready,7
+Eddie Vedder,Neil Young,9
+Eddie Vedder,Pearl Jam,96
+Eddie Vedder,Pixies (band),1
+Eddie Vedder,R.E.M.,4
+Eddie Vedder,Red Hot Chili Peppers,3
+Eddie Vedder,Sonic Youth,2
+Eddie Vedder,Soundgarden,5
+Eddie Vedder,The Who,21
+Eddie Vedder,Tom Petty,5
+Eddie Vedder,Tom Petty and the Heartbreakers,2
+Eddie Vedder,Tom Waits,1
+Eddie Vedder,Willie Nelson,1
+Tom Waits,Bob Dylan,6
+Tom Waits,Bruce Springsteen,3
+Tom Waits,Johnny Cash,1
+Tom Waits,Linda Ronstadt,1
+Tom Waits,Metallica,1
+Tom Waits,Neil Young,3
+Tom Waits,Pixies (band),1
+Tom Waits,R.E.M.,1
+Tom Waits,Roy Orbison,2
+Tom Waits,The Mo,3
+Tom Waits,Willie Nelson,1
+Jack White,Bob Dylan,4
+Jack White,Elton John,1
+Jack White,Elvis Presley,3
+Jack White,Kurt Cobain,1
+Jack White,Nas,14
+Crazy Horse (band),Buffalo Springfield,2
+Crazy Horse (band),"Crosby, Stills, Nash & Young",1
+Crazy Horse (band),Linda Ronstadt,1
+Crazy Horse (band),Neil Young,36
+Crazy Horse (band),Nicolette Larson,1
+Crazy Horse (band),Powderfinger,4
+Rick Danko,Bob Dylan,5
+Rick Danko,Hank Williams,1
+Rick Danko,The Band,25
+The Smashing Pumpkins,David Bowie,1
+The Smashing Pumpkins,Nas,1
+The Smashing Pumpkins,Nine Inch Nails,1
+The Smashing Pumpkins,Nirvana (band),2
+The Smashing Pumpkins,Pearl Jam,2
+The Smashing Pumpkins,Red Hot Chili Peppers,1
+The Smashing Pumpkins,Tegan and Sara,1
+The Smashing Pumpkins,The Mo,2
+The Smashing Pumpkins,The Monkees,1
+Michael Jackson,Elvis Presley,3
+David Bowie,Chuck Berry,1
+David Bowie,Elvis Presley,3
+David Bowie,Fats Domino,1
+David Bowie,Foo Fighters,1
+David Bowie,John Lennon,1
+David Bowie,Michael Jackson,1
+David Bowie,Nine Inch Nails,1
+David Bowie,Paul McCartney,1
+David Bowie,Pixies (band),1
+David Bowie,Sonic Youth,1
+David Bowie,The Mo,2
+David Bowie,The Monkees,1
+David Bowie,The Smashing Pumpkins,1
+David Bowie,The Who,1
+David Bowie,Tom Waits,1
+David Bowie,Trent Reznor,2
+Radiohead,Bob Dylan,2
+Radiohead,David Bowie,1
+Radiohead,Jack White,1
+Radiohead,Nirvana (band),1
+Radiohead,Pixies (band),2
+Radiohead,R.E.M.,5
+Radiohead,Red Hot Chili Peppers,1
+Radiohead,Sonic Youth,1
+Radiohead,Thom Yorke,12
+Pearl Jam,Eddie Vedder,10
+Pearl Jam,Foo Fighters,1
+Pearl Jam,Kurt Cobain,1
+Pearl Jam,Mike McCready,10
+Pearl Jam,Neil Young,7
+Pearl Jam,Nirvana (band),2
+Pearl Jam,Norther,1
+Pearl Jam,Red Hot Chili Peppers,2
+Pearl Jam,Soundgarden,3
+Pearl Jam,The Who,5
+Pearl Jam,Tom Petty,1
+Pearl Jam,Tom Petty and the Heartbreakers,1
+Roy Orbison,Bob Dylan,5
+Roy Orbison,Bruce Springsteen,5
+Roy Orbison,Chet Atkins,2
+Roy Orbison,Elton John,1
+Roy Orbison,Elvis Presley,8
+Roy Orbison,Emmylou Harris,4
+Roy Orbison,Hank Williams,2
+Roy Orbison,Jerry Lee Lewis,4
+Roy Orbison,John Lennon,1
+Roy Orbison,Johnny Cash,8
+Roy Orbison,Linda Ronstadt,1
+Roy Orbison,Nas,16
+Roy Orbison,Tom Petty,3
+Roy Orbison,Tom Waits,2
+Roy Orbison,Willie Nelson,1
+Chet Atkins,Elvis Presley,2
+Chet Atkins,Nas,19
+Chet Atkins,Willie Nelson,3
+Thom Yorke,Bob Dylan,1
+Thom Yorke,Kurt Cobain,1
+Thom Yorke,Neil Young,2
+Thom Yorke,Nirvana (band),1
+Thom Yorke,Paul McCartney,2
+Thom Yorke,Pixies (band),2
+Thom Yorke,R.E.M.,8
+Thom Yorke,Radiohead,64
+Thom Yorke,Red Hot Chili Peppers,3
+Thom Yorke,Unk,2
+Nirvana (band),David Bowie,1
+Nirvana (band),Foo Fighters,3
+Nirvana (band),Kurt Cobain,12
+Nirvana (band),Michael Jackson,2
+Nirvana (band),Paul McCartney,1
+Nirvana (band),Pixies (band),1
+Nirvana (band),R.E.M.,1
+Nirvana (band),Sonic Youth,3
+Nirvana (band),Soundgarden,1
+Nirvana (band),The Mo,1
+Jets Overhead,Buffalo Springfield,1
+Jets Overhead,Powderfinger,1
+Jets Overhead,Radiohead,2
+Jets Overhead,Tegan and Sara,1

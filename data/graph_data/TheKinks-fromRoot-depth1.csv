@@ -1,0 +1,185 @@
+Source,Target,Weight
+Jefferson Airplane,Centr,2
+Jefferson Airplane,The Beatles,4
+Jefferson Airplane,The Doors,2
+Jefferson Airplane,The Kings,1
+Jefferson Airplane,The Rolling Stones,1
+The Honeycombs,Ray Davies,1
+The Honeycombs,The Kinks,1
+Argent (band),The Kinks,2
+Jerry Lee Lewis,The Beatles,1
+Peter Frampton,Jerry Lee Lewis,1
+Peter Frampton,Small Faces,1
+Peter Frampton,Steve Marriott,2
+Peter Frampton,The Beatles,4
+Peter Frampton,The Rolling Stones,1
+Peter Frampton,The Who,1
+Pretty Things,Centr,1
+Pretty Things,The Beatles,1
+Pretty Things,The Kinks,3
+Pretty Things,The Rolling Stones,1
+Pretty Things,The Who,2
+The Jeff Beck Group,The Beatles,1
+The Jeff Beck Group,The Yardbirds,3
+The Yardbirds,Brian May,1
+The Yardbirds,The Creation (band),1
+The Yardbirds,The Jeff Beck Group,1
+The Yardbirds,The Rolling Stones,2
+The Yardbirds,The Who,3
+The Clash,Ramones,2
+The Clash,The Vines (band),1
+The Clash,The Who,1
+The Clash,Van Halen,1
+The Pretenders,Centr,1
+The Pretenders,Chrissie Hynde,2
+The Pretenders,The Clash,1
+The Pretenders,The Kinks,1
+The Jam,Ray Davies,2
+The Jam,Steve Marriott,1
+The Jam,The Beatles,6
+The Jam,The Clash,1
+The Jam,The Kinks,2
+The Jam,The Who,5
+The Creation (band),Pete Quaife,1
+The Creation (band),The Kinks,2
+The Creation (band),The Rolling Stones,1
+The Creation (band),The Who,1
+Love (band),The Rolling Stones,2
+Love (band),The Yardbirds,1
+Brian May,Queen (band),100
+Brian May,The Beatles,1
+Brian May,The Who,2
+Brian May,Van Halen,2
+Steve Marriott,Blondie (band),1
+Steve Marriott,Peter Frampton,5
+Steve Marriott,Small Faces,36
+Steve Marriott,The Kinks,1
+Craig Nicholls,The Beatles,2
+Craig Nicholls,The Vines (band),11
+Small Faces,Peter Frampton,3
+Small Faces,Steve Marriott,8
+Small Faces,The Jeff Beck Group,1
+Small Faces,The Who,3
+The Kingsmen,The Kings,52
+Blur (band),Oasis (band),7
+Blur (band),The Beatles,1
+Blur (band),The Kinks,1
+The Fall (band),The Kinks,4
+The Raincoats,Pulp (band),1
+The Raincoats,The Kinks,2
+Ray Davies,Chrissie Hynde,2
+Ray Davies,Pete Quaife,1
+Ray Davies,The Beatles,1
+Ray Davies,The Fall (band),1
+Ray Davies,The Honeycombs,1
+Ray Davies,The Jam,1
+Ray Davies,The Kinks,49
+Ray Davies,The Pretenders,4
+Ray Davies,The Rolling Stones,1
+Ray Davies,The Who,1
+Ray Davies,The Yardbirds,1
+Ray Davies,Van Halen,1
+The Who,Blur (band),1
+The Who,Oasis (band),2
+The Who,Ramones,1
+The Who,Small Faces,3
+The Who,The Beatles,3
+The Who,The Clash,2
+The Who,The Doors,1
+The Who,The Jam,2
+The Who,The Kinks,3
+The Who,The Rolling Stones,4
+Blondie (band),Ramones,1
+Blondie (band),The Pretenders,1
+Blondie (band),The Who,1
+The Kinks,Alexis Korner's Blues Incorporated,1
+The Kinks,Argent (band),5
+The Kinks,Blondie (band),1
+The Kinks,Blur (band),2
+The Kinks,Brian May,1
+The Kinks,Centr,1
+The Kinks,Chrissie Hynde,1
+The Kinks,Craig Nicholls,1
+The Kinks,Jefferson Airplane,1
+The Kinks,Jerry Lee Lewis,1
+The Kinks,Love (band),1
+The Kinks,Manfred Mann,2
+The Kinks,Oasis (band),2
+The Kinks,Pete Quaife,12
+The Kinks,Peter Frampton,1
+The Kinks,Pretty Things,3
+The Kinks,Pulp (band),1
+The Kinks,Queen (band),1
+The Kinks,Ramones,1
+The Kinks,Ray Davies,55
+The Kinks,Small Faces,1
+The Kinks,Steve Marriott,1
+The Kinks,The Beatles,8
+The Kinks,The Clash,1
+The Kinks,The Creation (band),1
+The Kinks,The Doors,1
+The Kinks,The Fall (band),1
+The Kinks,The Honeycombs,2
+The Kinks,The Jam,3
+The Kinks,The Jeff Beck Group,1
+The Kinks,The Kings,2
+The Kinks,The Kingsmen,2
+The Kinks,The Knack,2
+The Kinks,The Pretenders,2
+The Kinks,The Raincoats,1
+The Kinks,The Rolling Stones,1
+The Kinks,The Vines (band),1
+The Kinks,The Who,4
+The Kinks,The Yardbirds,3
+The Kinks,Van Halen,4
+The Doors,Jefferson Airplane,1
+The Doors,Love (band),6
+The Doors,Ray Davies,1
+The Doors,The Kinks,1
+The Doors,The Rolling Stones,1
+The Doors,The Who,1
+Ramones,Blondie (band),1
+Ramones,The Beatles,3
+Ramones,The Clash,3
+Ramones,The Doors,1
+Ramones,The Kinks,1
+Ramones,The Rolling Stones,1
+Ramones,The Who,1
+Oasis (band),Blur (band),7
+Oasis (band),Small Faces,1
+Oasis (band),The Beatles,3
+Oasis (band),The Doors,1
+Oasis (band),The Jam,1
+Oasis (band),The Kinks,1
+Oasis (band),The Rolling Stones,1
+Oasis (band),The Who,2
+The Knack,The Rolling Stones,1
+The Vines (band),Craig Nicholls,11
+The Vines (band),The Beatles,1
+Pete Quaife,Ray Davies,5
+Pete Quaife,The Kinks,21
+Pete Quaife,The Who,2
+Queen (band),Brian May,30
+Queen (band),Centr,2
+Queen (band),The Beatles,8
+Queen (band),The Kinks,2
+Queen (band),The Who,1
+Queen (band),Van Halen,3
+The Beatles,Peter Frampton,1
+The Beatles,The Kinks,2
+The Beatles,The Rolling Stones,2
+The Beatles,The Who,1
+Chrissie Hynde,Centr,2
+Chrissie Hynde,Ray Davies,3
+Chrissie Hynde,The Clash,2
+Chrissie Hynde,The Kinks,2
+Chrissie Hynde,The Pretenders,25
+Chrissie Hynde,The Raincoats,1
+The Rolling Stones,Alexis Korner's Blues Incorporated,1
+The Rolling Stones,Peter Frampton,1
+The Rolling Stones,The Beatles,12
+The Rolling Stones,The Who,2
+Pulp (band),Blur (band),2
+Pulp (band),Centr,3
+Pulp (band),Oasis (band),2
+Pulp (band),The Fall (band),1
