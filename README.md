@@ -40,7 +40,7 @@ In general terms, this repository contains:
 
 In order for the dataset to be generated exclusively with articles about musical artists, they had to be acquired manually from Wikipedia. The site employs categories to organize articles, and these can in turn be used in [this page](https://en.wikipedia.org/wiki/Special:Export) so that a XML can be downloaded. This XML will have the full content of all articles from the informed category.
 
-The dataset, as made available here, was created with articles/artists that fell into the following cateogries.
+The dataset, as made available here, was created with articles/artists that fell into the following categories.
 
 * "Musical groups established in 1950" until "Musical groups established in 2020".
 * "20th_century_american_rappers" and "21st_century_american_rappers".
