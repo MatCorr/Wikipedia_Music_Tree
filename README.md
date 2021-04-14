@@ -12,9 +12,9 @@ In the case of musical artists, links or mentions to articles of other peers can
 
 Take the following excerpt extracted from the Wikipedia article on [The Rolling Stones](https://en.wikipedia.org/wiki/The_Rolling_Stones). Other artists that are referred to have been highlighted in bold.
 
-*"Having a charting single gave the band entree to play outside London, starting with a booking at the Outlook Club in Middlesbrough on 13 July, sharing the billing with **the Hollies**. Later in 1963 Oldham and Easton arranged the band's first big UK concert tour as a supporting act for American stars including **Bo Diddley**, **Little Richard** and the **Everly Brothers**. The tour gave the band the opportunity to hone their stagecraft. During the tour the band recorded their second single, a **Lennon–McCartney**-penned number entitled "I Wanna Be Your Man". The song was written and given to the Stones when **John Lennon** and **Paul McCartney** visited them in the studio as the two Beatles liked giving the copyrights to songs away to their friends."*
+*"Having a charting single gave the band entree to play outside London, starting with a booking at the Outlook Club in Middlesbrough on 13 July, sharing the billing with **the Hollies**. Later in 1963 Oldham and Easton arranged the band's first big UK concert tour as a supporting act for American stars including **Bo Diddley**, **Little Richard** and the **Everly Brothers**. The tour gave the band the opportunity to hone their stagecraft. During the tour the band recorded their second single, a **Lennon–McCartney**-penned number entitled 'I Wanna Be Your Man'. The song was written and given to the Stones when **John Lennon** and **Paul McCartney** visited them in the studio as the two Beatles liked giving the copyrights to songs away to their friends."*
 
-In just a few sentences, then, we see how The Rolling Stones have historical links to many other artists. And this happens throughout the band's article as well as those from other bands and musicians around Wikipedia.
+In just a few sentences we see how The Rolling Stones have historical links to many other artists. And this happens throughout the band's article as well as those from other bands and musicians around Wikipedia.
 
 The question, then, is: what insights can be produced via these links and mentions? In order to find out, the first step is building a dataset that maps these links throughout Wikipedia and stores them neatly in a file. This is the main purpose of this repository, and with the code stored here (just a few scripts), we will go from building this dataset to being able to produce data visualizations such as this one.
 
@@ -40,7 +40,7 @@ In general terms, this repository contains:
 
 In order for the dataset to be generated exclusively with articles about musical artists, they had to be acquired manually from Wikipedia. The site employs categories to organize articles, and these can in turn be used in [this page](https://en.wikipedia.org/wiki/Special:Export) so that a XML can be downloaded. This XML will have the full content of all articles from the informed category.
 
-The dataset, as made available here, was created with articles/artists that fell into the following cateogries.
+The dataset, as made available here, was created with articles/artists that fell into the following categories.
 
 * "Musical groups established in 1950" until "Musical groups established in 2020".
 * "20th_century_american_rappers" and "21st_century_american_rappers".
@@ -95,6 +95,6 @@ Some of these directories are empty, but they have been added to the repository 
 
 This one is just for show. I added PDF and PNG versions of the visualizations I created in Gephi with this dataset. Again, the former format is better because these graphs have a lot of small details that can only be seen by zooming in, and doing that in the image is nearly impossible because of their limited quality. With PDFs, there is no such problem and it is possible to explore the graphs as much as it is desired.
 
-Just as an added note on these images, the size of the nodes and the size of the artists' names correspond to how many links there are coming in and out of their articles. Meanwhile, the thickness of the edges is related to the number of mentions between artists: a very thick line between R.E.M. and The Minus 5, as seen below, shows their articles refer to one another quite a bit.
+Just as an added note on these images, the size of the nodes and the size of the artists' names correspond to how many links there are coming in and out of their articles. Meanwhile, the thickness of the edges is related to the number of mentions between artists: a very thick line between R.E.M. and The Minus 5, as seen below, shows their articles refer to one another quite a bit. Plus, with the configuration in which the graph was generated, there is no distinction made between incoming and outgoing links; they are joined in the same edge.
 
 ![R.E.M. - Links](images/rem_mentions_from.png)
