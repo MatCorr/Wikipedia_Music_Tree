@@ -1,99 +1,229 @@
 Source,Target,Weight
-Karen O,Bob Dylan,1
-Cyndi Lauper,Elvis Presley,1
-Cyndi Lauper,John Lennon,2
-Cyndi Lauper,Prince (musician),2
-Cyndi Lauper,Roy Orbison,2
-Cyndi Lauper,The Beatles,2
-Cyndi Lauper,Yoko Ono,1
-Sonic Youth,Eminem,1
-Sonic Youth,Joni Mitchell,3
-Sonic Youth,Neil Young,2
-Sonic Youth,Patti Smith,1
-Sonic Youth,Yoko Ono,1
+Jerry Garcia,Bob Dylan,3
+Jerry Garcia,Chuck Berry,3
+Jerry Garcia,David Crosby,1
+Jerry Garcia,Grateful Dead,59
+Jerry Garcia,John Lee Hooker,1
+Jerry Garcia,Robert Hunter (lyricist),2
+Fred Neil,Bob Dylan,2
+Fred Neil,David Crosby,3
+Fred Neil,Elvis Presley,1
+Fred Neil,Joni Mitchell,2
+Fred Neil,Roy Orbison,3
+Keith Richards,Billie Holiday,1
+Keith Richards,Bob Dylan,1
+Keith Richards,Chuck Berry,9
+Keith Richards,Eric Clapton,1
+Keith Richards,Hank Williams,2
+Keith Richards,John Lee Hooker,2
+Keith Richards,John Lennon,2
+Keith Richards,Leonard Cohen,2
+Keith Richards,Mick Jagger,8
+Keith Richards,Muddy Waters,1
+Keith Richards,The Beatles,3
+Keith Richards,Tom Waits,2
+Keith Richards,Willie Nelson,1
+Keith Richards,Yoko Ono,2
+The Association,Bob Dylan,1
+The Association,David Crosby,1
+The Association,Joan Baez,1
+The Association,The Turtles,4
+George Harrison,Bob Dylan,4
+George Harrison,Chuck Berry,2
+George Harrison,David Crosby,1
+George Harrison,Elton John,1
+George Harrison,Elvis Presley,1
+George Harrison,Eric Clapton,9
+George Harrison,Frank Sinatra,1
+George Harrison,John Lennon,8
+George Harrison,Neil Young,1
+George Harrison,Paul McCartney,2
+George Harrison,Paul Simon,2
+George Harrison,Roy Orbison,1
+George Harrison,The Band,2
+George Harrison,The Beatles,81
+George Harrison,The Byrds,4
+George Harrison,Tom Petty,5
+George Harrison,Traveling Wilburys,10
+George Harrison,Yoko Ono,1
+Traveling Wilburys,Bob Dylan,14
+Traveling Wilburys,Dire Straits,1
+Traveling Wilburys,George Harrison,20
+Traveling Wilburys,Grateful Dead,1
+Traveling Wilburys,Roy Orbison,11
+Traveling Wilburys,The Beatles,5
+Traveling Wilburys,Tom Petty,19
+Traveling Wilburys,Tom Petty and the Heartbreakers,7
+Prince (musician),Chuck Berry,1
+Prince (musician),David Bowie,2
+Prince (musician),Elvis Presley,1
+Prince (musician),George Harrison,1
+Prince (musician),Joni Mitchell,2
+Prince (musician),Mick Jagger,1
+Prince (musician),The Beatles,1
+The Clancy Brothers,Bob Dylan,14
+The Clancy Brothers,Elton John,2
+The Clancy Brothers,Elvis Presley,1
+The Clancy Brothers,Eric Clapton,1
+The Clancy Brothers,George Harrison,1
+The Clancy Brothers,Joan Baez,1
+The Clancy Brothers,Odetta,6
+The Clancy Brothers,"Peter, Paul and Mary",1
+The Clancy Brothers,Woody Guthrie,1
+Eric Clapton,Bob Dylan,3
+Eric Clapton,David Bowie,1
+Eric Clapton,Dire Straits,2
+Eric Clapton,Elton John,6
+Eric Clapton,George Harrison,13
+Eric Clapton,John Lennon,3
+Eric Clapton,Keith Richards,1
+Eric Clapton,Manfred Mann,1
+Eric Clapton,Muddy Waters,2
+Eric Clapton,Paul McCartney,2
+Eric Clapton,Stevie Ray Vaughan,2
+Eric Clapton,The Band,7
+Eric Clapton,The Beatles,9
+Eric Clapton,The Hollies,1
+Eric Clapton,Tom Petty,2
+Eric Clapton,Tom Petty and the Heartbreakers,1
+Eric Clapton,Willie Nelson,1
+Tom Verlaine,Bob Dylan,3
+Tom Verlaine,Patti Smith,3
+Tom Verlaine,Sonic Youth,1
+David Crosby,Bob Dylan,2
+David Crosby,Elton John,1
+David Crosby,Grateful Dead,3
+David Crosby,Jerry Garcia,1
+David Crosby,Joni Mitchell,2
+David Crosby,Neil Young,4
+David Crosby,The Byrds,24
+David Crosby,The Hollies,2
+The Band,Bob Dylan,25
+The Band,Elton John,2
+The Band,Eric Clapton,5
+The Band,George Harrison,3
+The Band,Grateful Dead,5
+The Band,Jakob Dylan,1
+The Band,Jerry Garcia,1
+The Band,Joni Mitchell,1
+The Band,Muddy Waters,1
+The Band,Neil Young,1
+The Band,The Byrds,3
+The Band,The Wallflowers,1
+The Band,Woody Guthrie,1
+Patti Smith,Bob Dylan,3
+Patti Smith,Bruce Springsteen,3
+Patti Smith,Prince (musician),1
+Patti Smith,Sonic Youth,1
+Patti Smith,Tom Verlaine,3
 Syd Barrett,Blur (band),1
 Syd Barrett,Bob Dylan,4
 Syd Barrett,David Bowie,2
 Syd Barrett,Paul McCartney,1
 Syd Barrett,The Beatles,3
 Syd Barrett,The Byrds,2
-Eminem,Bob Dylan,3
-Eminem,Elton John,5
-Eminem,Elvis Presley,2
-Eminem,John Lennon,2
-Eminem,Mick Jagger,1
-Eminem,Nas,2
-Eminem,The Beatles,3
+Mason Jennings,Bob Dylan,1
+Cat Power,Bob Dylan,2
+Cat Power,David Bowie,1
+Cat Power,Eddie Vedder,4
+Cat Power,Sonic Youth,2
+Cat Power,Yoko Ono,1
+Julie Driscoll,Bob Dylan,1
+Julie Driscoll,Manfred Mann,1
+Robert Hunter (lyricist),Bob Dylan,4
+Robert Hunter (lyricist),Grateful Dead,26
+Robert Hunter (lyricist),Jerry Garcia,3
+Muddy Waters,Bob Dylan,2
+Muddy Waters,Eric Clapton,3
+Muddy Waters,Keith Richards,1
+Muddy Waters,Mick Jagger,1
+Muddy Waters,Mike Bloomfield,1
+Muddy Waters,The Band,2
 The Turtles,Bob Dylan,2
 The Turtles,Bruce Springsteen,2
 The Turtles,John Lennon,1
 The Turtles,The Association,2
 The Turtles,The Beatles,3
 The Turtles,The Byrds,4
-Neil Young,Bob Dylan,5
-Neil Young,Bruce Springsteen,2
-Neil Young,Chuck Berry,1
-Neil Young,David Bowie,1
-Neil Young,David Crosby,2
-Neil Young,Eddie Vedder,4
-Neil Young,Elton John,3
-Neil Young,Elvis Presley,2
-Neil Young,Hank Williams,3
-Neil Young,John Lennon,2
-Neil Young,Johnny Cash,3
-Neil Young,Joni Mitchell,3
-Neil Young,Kenny Buttrey,1
-Neil Young,Nas,28
-Neil Young,Nick Cave,1
-Neil Young,Paul McCartney,3
-Neil Young,Roy Orbison,1
-Neil Young,Sonic Youth,5
-Neil Young,The Band,3
-Neil Young,Tom Petty,1
-Neil Young,Tom Petty and the Heartbreakers,1
-Neil Young,Tom Waits,1
-Neil Young,Willie Nelson,4
-Leonard Cohen,Bob Dylan,2
-Leonard Cohen,Joan Baez,1
-Leonard Cohen,Joni Mitchell,2
-Leonard Cohen,Paul Simon,2
-Cat Power,Bob Dylan,2
-Cat Power,David Bowie,1
-Cat Power,Eddie Vedder,4
-Cat Power,Sonic Youth,2
-Cat Power,Yoko Ono,1
-David Bowie,Chuck Berry,1
-David Bowie,Elvis Presley,3
-David Bowie,Eric Clapton,1
-David Bowie,John Lennon,1
-David Bowie,Mick Jagger,3
-David Bowie,Mick Ronson,3
-David Bowie,Paul McCartney,1
-David Bowie,Sonic Youth,1
-David Bowie,Stevie Ray Vaughan,1
-David Bowie,The Beatles,2
-David Bowie,Tom Waits,1
-Mick Ronson,Bob Dylan,7
-Mick Ronson,David Bowie,8
-Mick Ronson,Elton John,3
-Mick Ronson,Elvis Presley,1
-Mick Ronson,Eric Clapton,1
-Willie Nelson,Bob Dylan,2
-Willie Nelson,David Bowie,1
-Willie Nelson,Elton John,1
-Willie Nelson,Elvis Presley,1
-Willie Nelson,Eric Clapton,1
-Willie Nelson,Frank Sinatra,1
-Willie Nelson,Hank Williams,1
-Willie Nelson,Johnny Cash,8
-Willie Nelson,Karen O,1
-Willie Nelson,Keith Richards,1
-Willie Nelson,Nas,11
-Willie Nelson,Neil Young,4
-Willie Nelson,Roy Orbison,2
-Mel Tormé,Frank Sinatra,2
-Mel Tormé,Nat King Cole,3
-Junior Parker,Elvis Presley,1
+Jakob Dylan,Bob Dylan,4
+Jakob Dylan,Cat Power,2
+Jakob Dylan,Eric Clapton,2
+Jakob Dylan,Hank Williams,3
+Jakob Dylan,John Lennon,1
+Jakob Dylan,The Band,5
+Jakob Dylan,The Turtles,2
+Jakob Dylan,The Wallflowers,50
+Jakob Dylan,Tom Petty and the Heartbreakers,1
+Joan Baez,Bob Dylan,13
+Joan Baez,Bruce Springsteen,1
+Joan Baez,John Lennon,2
+Joan Baez,Joni Mitchell,1
+Joan Baez,Leonard Cohen,3
+Joan Baez,Odetta,4
+Joan Baez,Paul McCartney,1
+Joan Baez,Paul Simon,2
+Joan Baez,The Band,2
+Joan Baez,The Beatles,1
+Joan Baez,Woody Guthrie,3
+Manfred Mann,Bob Dylan,1
+Karen O,Bob Dylan,1
+Elton John,Elvis Presley,1
+Elton John,Eminem,2
+Elton John,Eric Clapton,5
+Elton John,George Harrison,1
+Elton John,Guns N' Roses,3
+Elton John,John Lennon,3
+Elton John,Keith Richards,1
+Elton John,Mick Jagger,1
+Elton John,Paul McCartney,2
+Elton John,The Beatles,3
+Elton John,The Hollies,1
+Kenny Buttrey,Bob Dylan,3
+Kenny Buttrey,Chuck Berry,1
+Kenny Buttrey,Elvis Presley,1
+Kenny Buttrey,Joan Baez,1
+Kenny Buttrey,Neil Young,5
+New Lost City Ramblers,Bob Dylan,1
+Stevie Ray Vaughan,Chuck Berry,1
+Stevie Ray Vaughan,David Bowie,6
+Stevie Ray Vaughan,David Crosby,1
+Stevie Ray Vaughan,Eric Clapton,4
+Stevie Ray Vaughan,Mick Jagger,1
+Stevie Ray Vaughan,Muddy Waters,4
+Paul McCartney,Bob Dylan,1
+Paul McCartney,Chuck Berry,2
+Paul McCartney,David Bowie,2
+Paul McCartney,Elton John,1
+Paul McCartney,Elvis Presley,3
+Paul McCartney,Eric Clapton,2
+Paul McCartney,George Harrison,5
+Paul McCartney,Grateful Dead,3
+Paul McCartney,John Lennon,10
+Paul McCartney,Keith Richards,1
+Paul McCartney,Paul Simon,2
+Paul McCartney,The Beatles,123
+Paul McCartney,Yoko Ono,3
+John Lennon,Bob Dylan,1
+John Lennon,David Bowie,4
+John Lennon,Elton John,4
+John Lennon,Elvis Presley,1
+John Lennon,Eric Clapton,1
+John Lennon,George Harrison,5
+John Lennon,Keith Richards,1
+John Lennon,Mick Jagger,2
+John Lennon,Paul McCartney,6
+John Lennon,The Beatles,78
+John Lennon,Yoko Ono,18
+Eddie Vedder,Bob Dylan,4
+Eddie Vedder,Bruce Springsteen,2
+Eddie Vedder,Cat Power,3
+Eddie Vedder,Neil Young,9
+Eddie Vedder,Sonic Youth,2
+Eddie Vedder,The Beatles,2
+Eddie Vedder,Tom Petty,5
+Eddie Vedder,Tom Petty and the Heartbreakers,2
+Eddie Vedder,Tom Waits,1
+Eddie Vedder,Willie Nelson,1
 Nick Cave,Bob Dylan,2
 Nick Cave,David Bowie,1
 Nick Cave,Hank Williams,1
@@ -102,20 +232,30 @@ Nick Cave,Leonard Cohen,8
 Nick Cave,Manfred Mann,1
 Nick Cave,Neil Young,3
 Nick Cave,The Beatles,1
-Muddy Waters,Bob Dylan,2
-Muddy Waters,Eric Clapton,3
-Muddy Waters,Keith Richards,1
-Muddy Waters,Mick Jagger,1
-Muddy Waters,Mike Bloomfield,1
-Muddy Waters,Robert Johnson,1
-Muddy Waters,The Band,2
-Kurtis Blow,Nas,1
-Kurtis Blow,Peabod,1
+Guns N' Roses,Bruce Springsteen,1
+Guns N' Roses,Elton John,4
+Guns N' Roses,John Lennon,2
+Guns N' Roses,Neil Young,1
+Guns N' Roses,The Beatles,2
+Grateful Dead,Bob Dylan,5
+Grateful Dead,Jerry Garcia,18
+Grateful Dead,Robert Hunter (lyricist),4
+Grateful Dead,The Band,1
+Grateful Dead,The Beatles,2
+The Beatles,Bob Dylan,3
+The Beatles,Chuck Berry,1
+The Beatles,Elton John,1
+The Beatles,Elvis Presley,3
+The Beatles,Eric Clapton,2
+The Beatles,George Harrison,12
+The Beatles,John Lennon,17
+The Beatles,Paul McCartney,16
+The Beatles,Roy Orbison,4
+The Beatles,The Byrds,2
+The Beatles,Yoko Ono,4
 Bob Dylan,Billie Holiday,1
-Bob Dylan,Black C,1
 Bob Dylan,Blind Willie McTell,3
 Bob Dylan,Blur (band),1
-Bob Dylan,Bobby V,1
 Bob Dylan,Bruce Springsteen,4
 Bob Dylan,Cat Power,1
 Bob Dylan,Chuck Berry,1
@@ -158,7 +298,6 @@ Bob Dylan,Mick Jagger,1
 Bob Dylan,Mick Ronson,1
 Bob Dylan,Mike Bloomfield,2
 Bob Dylan,Muddy Waters,1
-Bob Dylan,Nas,14
 Bob Dylan,Nat King Cole,1
 Bob Dylan,Neil Young,2
 Bob Dylan,New Lost City Ramblers,1
@@ -167,11 +306,9 @@ Bob Dylan,Odetta,1
 Bob Dylan,Patti Smith,2
 Bob Dylan,Paul McCartney,1
 Bob Dylan,Paul Simon,1
-Bob Dylan,Peabod,1
 Bob Dylan,"Peter, Paul and Mary",2
 Bob Dylan,Prince (musician),3
 Bob Dylan,Robert Hunter (lyricist),1
-Bob Dylan,Robert Johnson,2
 Bob Dylan,Roy Orbison,1
 Bob Dylan,Sonic Youth,1
 Bob Dylan,Sonny & Cher,1
@@ -195,72 +332,86 @@ Bob Dylan,Traveling Wilburys,7
 Bob Dylan,Willie Nelson,2
 Bob Dylan,Woody Guthrie,5
 Bob Dylan,Yoko Ono,1
-Eddie Vedder,Bob Dylan,4
-Eddie Vedder,Bruce Springsteen,2
-Eddie Vedder,Cat Power,3
-Eddie Vedder,Neil Young,9
-Eddie Vedder,Sonic Youth,2
-Eddie Vedder,The Beatles,2
-Eddie Vedder,Tom Petty,5
-Eddie Vedder,Tom Petty and the Heartbreakers,2
-Eddie Vedder,Tom Waits,1
-Eddie Vedder,Willie Nelson,1
+Sonny & Cher,Elton John,1
+Sonny & Cher,Elvis Presley,2
+Sonny & Cher,Frank Sinatra,1
+Sonny & Cher,The Beatles,1
+Dire Straits,Bob Dylan,4
+Dire Straits,Bruce Springsteen,1
+Dire Straits,Chuck Berry,1
+Dire Straits,Elton John,1
+Dire Straits,Eric Clapton,4
+Dire Straits,Tom Petty and the Heartbreakers,1
+Paul Simon,Bob Dylan,4
+Paul Simon,Chuck Berry,2
+Paul Simon,George Harrison,1
+Paul Simon,John Lennon,1
+Paul Simon,Leonard Cohen,2
+Paul Simon,Paul McCartney,1
+Paul Simon,Woody Guthrie,1
+Willie Nelson,Bob Dylan,2
+Willie Nelson,David Bowie,1
+Willie Nelson,Elton John,1
+Willie Nelson,Elvis Presley,1
+Willie Nelson,Eric Clapton,1
+Willie Nelson,Frank Sinatra,1
+Willie Nelson,Hank Williams,1
+Willie Nelson,Johnny Cash,8
+Willie Nelson,Karen O,1
+Willie Nelson,Keith Richards,1
+Willie Nelson,Neil Young,4
+Willie Nelson,Roy Orbison,2
+Sonic Youth,Eminem,1
+Sonic Youth,Joni Mitchell,3
+Sonic Youth,Neil Young,2
+Sonic Youth,Patti Smith,1
+Sonic Youth,Yoko Ono,1
+Odetta,Bob Dylan,5
+Odetta,Joan Baez,4
+Odetta,"Peter, Paul and Mary",2
+Odetta,The Clancy Brothers,1
+Odetta,Woody Guthrie,1
+Mick Jagger,Bob Dylan,1
+Mick Jagger,Chuck Berry,1
+Mick Jagger,David Bowie,4
+Mick Jagger,Dire Straits,1
+Mick Jagger,Elvis Presley,1
+Mick Jagger,Keith Richards,13
+Mick Jagger,Muddy Waters,1
 "Peter, Paul and Mary",Bob Dylan,5
 "Peter, Paul and Mary",Woody Guthrie,1
-The Wallflowers,Bob Dylan,1
-The Wallflowers,David Bowie,3
-The Wallflowers,Eric Clapton,1
-The Wallflowers,Jakob Dylan,14
-The Wallflowers,Nas,3
-The Wallflowers,Neil Young,1
-The Wallflowers,The Beatles,1
-Patti Smith,Bob Dylan,3
-Patti Smith,Bruce Springsteen,3
-Patti Smith,Prince (musician),1
-Patti Smith,Sonic Youth,1
-Patti Smith,Tom Verlaine,3
-Yoko Ono,Cat Power,1
-Yoko Ono,Cyndi Lauper,1
-Yoko Ono,Eric Clapton,3
-Yoko Ono,George Harrison,2
-Yoko Ono,John Lennon,46
-Yoko Ono,Paul McCartney,4
-Yoko Ono,Paul Simon,2
-Yoko Ono,Sonic Youth,3
-Yoko Ono,The Beatles,26
-Kenny Buttrey,Bob Dylan,3
-Kenny Buttrey,Chuck Berry,1
-Kenny Buttrey,Elvis Presley,1
-Kenny Buttrey,Joan Baez,1
-Kenny Buttrey,Nas,4
-Kenny Buttrey,Neil Young,5
-Tom Waits,Bob Dylan,6
-Tom Waits,Bruce Springsteen,3
-Tom Waits,Joe Strummer,1
-Tom Waits,Johnny Cash,1
-Tom Waits,Keith Richards,2
-Tom Waits,Neil Young,3
-Tom Waits,Roy Orbison,2
-Tom Waits,Willie Nelson,1
-Joe Strummer,Bruce Springsteen,1
-Joe Strummer,Johnny Cash,5
-Joe Strummer,Paul Simon,1
-Joe Strummer,Woody Guthrie,2
-Keith Richards,Billie Holiday,1
-Keith Richards,Bob Dylan,1
-Keith Richards,Chuck Berry,9
-Keith Richards,Eric Clapton,1
-Keith Richards,Hank Williams,2
-Keith Richards,John Lee Hooker,2
-Keith Richards,John Lennon,2
-Keith Richards,Leonard Cohen,2
-Keith Richards,Mick Jagger,8
-Keith Richards,Muddy Waters,1
-Keith Richards,Nas,2
-Keith Richards,The Beatles,3
-Keith Richards,Tom Waits,2
-Keith Richards,Willie Nelson,1
-Keith Richards,Yoko Ono,2
+Roy Orbison,Bob Dylan,5
+Roy Orbison,Bruce Springsteen,5
+Roy Orbison,Elton John,1
+Roy Orbison,Elvis Presley,8
+Roy Orbison,George Harrison,3
+Roy Orbison,Hank Williams,2
+Roy Orbison,John Lennon,1
+Roy Orbison,Johnny Cash,8
+Roy Orbison,Mick Jagger,1
+Roy Orbison,Tom Petty,3
+Roy Orbison,Tom Waits,2
+Roy Orbison,Traveling Wilburys,12
+Roy Orbison,Willie Nelson,1
+Cyndi Lauper,Elvis Presley,1
+Cyndi Lauper,John Lennon,2
+Cyndi Lauper,Prince (musician),2
+Cyndi Lauper,Roy Orbison,2
+Cyndi Lauper,The Beatles,2
+Cyndi Lauper,Yoko Ono,1
+Woody Guthrie,Bob Dylan,8
+Woody Guthrie,Bruce Springsteen,3
+Woody Guthrie,Jeff Tweedy,1
+Woody Guthrie,Jerry Garcia,1
+Woody Guthrie,Joe Strummer,1
+Woody Guthrie,Johnny Cash,1
+Woody Guthrie,Odetta,1
+Woody Guthrie,Robert Hunter (lyricist),1
+Woody Guthrie,The Band,1
+Jeff Tweedy,Bob Dylan,2
+Jeff Tweedy,Neil Young,2
+Jeff Tweedy,The Beatles,2
+Jeff Tweedy,Woody Guthrie,2
 Joni Mitchell,Bob Dylan,5
 Joni Mitchell,Cat Power,1
 Joni Mitchell,Cyndi Lauper,2
@@ -274,32 +425,106 @@ Joni Mitchell,Sonic Youth,1
 Joni Mitchell,The Band,2
 Joni Mitchell,Tom Petty,1
 Joni Mitchell,Willie Nelson,1
-Billie Holiday,Frank Sinatra,2
+Blind Willie McTell,Bob Dylan,4
+David Bowie,Chuck Berry,1
+David Bowie,Elvis Presley,3
+David Bowie,Eric Clapton,1
+David Bowie,John Lennon,1
+David Bowie,Mick Jagger,3
+David Bowie,Mick Ronson,3
+David Bowie,Paul McCartney,1
+David Bowie,Sonic Youth,1
+David Bowie,Stevie Ray Vaughan,1
+David Bowie,The Beatles,2
+David Bowie,Tom Waits,1
+Joe Strummer,Bruce Springsteen,1
+Joe Strummer,Johnny Cash,5
+Joe Strummer,Woody Guthrie,2
+Steve Goodman,Johnny Cash,2
+Steve Goodman,Willie Nelson,2
 Frank Sinatra,Elvis Presley,2
 Frank Sinatra,Joni Mitchell,1
 Frank Sinatra,Nat King Cole,3
 Frank Sinatra,Paul Simon,1
-Frank Sinatra,Peabod,3
 Frank Sinatra,The Beatles,3
-Nat King Cole,Frank Sinatra,5
-Nat King Cole,Mel Tormé,1
-The Association,Bob Dylan,1
-The Association,Bobby V,1
-The Association,David Crosby,1
-The Association,Joan Baez,1
-The Association,The Turtles,4
-The Clancy Brothers,Bob Dylan,14
-The Clancy Brothers,Elton John,2
-The Clancy Brothers,Elvis Presley,1
-The Clancy Brothers,Eric Clapton,1
-The Clancy Brothers,George Harrison,1
-The Clancy Brothers,Joan Baez,1
-The Clancy Brothers,Odetta,6
-The Clancy Brothers,"Peter, Paul and Mary",1
-The Clancy Brothers,Woody Guthrie,1
-Robert Hunter (lyricist),Bob Dylan,4
-Robert Hunter (lyricist),Grateful Dead,26
-Robert Hunter (lyricist),Jerry Garcia,3
+Leonard Cohen,Bob Dylan,2
+Leonard Cohen,Joan Baez,1
+Leonard Cohen,Joni Mitchell,2
+Leonard Cohen,Paul Simon,2
+Blur (band),The Beatles,1
+Chuck Berry,Bob Dylan,1
+Chuck Berry,Bruce Springsteen,2
+Chuck Berry,David Bowie,1
+Chuck Berry,Elvis Presley,1
+Chuck Berry,Eric Clapton,1
+Chuck Berry,Grateful Dead,1
+Chuck Berry,John Lennon,1
+Chuck Berry,Keith Richards,2
+Chuck Berry,Muddy Waters,5
+Chuck Berry,Nat King Cole,1
+Chuck Berry,The Beatles,3
+Mike Bloomfield,Bob Dylan,7
+Mike Bloomfield,Chuck Berry,2
+Mike Bloomfield,Jerry Garcia,1
+Mike Bloomfield,Muddy Waters,4
+Mike Bloomfield,"Peter, Paul and Mary",2
+Eminem,Bob Dylan,3
+Eminem,Elton John,5
+Eminem,Elvis Presley,2
+Eminem,John Lennon,2
+Eminem,Mick Jagger,1
+Eminem,The Beatles,3
+The Byrds,Bob Dylan,12
+The Byrds,David Crosby,17
+The Byrds,Joni Mitchell,1
+The Byrds,Keith Richards,1
+The Byrds,Mick Jagger,1
+The Byrds,Neil Young,3
+The Byrds,Patti Smith,2
+The Byrds,Roy Orbison,1
+The Byrds,Sonny & Cher,1
+The Byrds,The Beatles,13
+The Byrds,Tom Petty and the Heartbreakers,1
+Tom Waits,Bob Dylan,6
+Tom Waits,Bruce Springsteen,3
+Tom Waits,Joe Strummer,1
+Tom Waits,Johnny Cash,1
+Tom Waits,Keith Richards,2
+Tom Waits,Neil Young,3
+Tom Waits,Roy Orbison,2
+Tom Waits,Willie Nelson,1
+Billie Holiday,Frank Sinatra,2
+Neil Young,Bob Dylan,5
+Neil Young,Bruce Springsteen,2
+Neil Young,Chuck Berry,1
+Neil Young,David Bowie,1
+Neil Young,David Crosby,2
+Neil Young,Eddie Vedder,4
+Neil Young,Elton John,3
+Neil Young,Elvis Presley,2
+Neil Young,Hank Williams,3
+Neil Young,John Lennon,2
+Neil Young,Johnny Cash,3
+Neil Young,Joni Mitchell,3
+Neil Young,Kenny Buttrey,1
+Neil Young,Nick Cave,1
+Neil Young,Paul McCartney,3
+Neil Young,Roy Orbison,1
+Neil Young,Sonic Youth,5
+Neil Young,The Band,3
+Neil Young,Tom Petty and the Heartbreakers,1
+Neil Young,Tom Waits,1
+Neil Young,Willie Nelson,4
+The Hollies,Bob Dylan,3
+The Hollies,Bruce Springsteen,1
+The Hollies,David Crosby,1
+The Hollies,Elton John,3
+The Hollies,The Beatles,6
+Hank Williams,Bob Dylan,2
+Hank Williams,Chuck Berry,1
+Hank Williams,Elvis Presley,2
+Hank Williams,Jakob Dylan,1
+Hank Williams,Johnny Cash,2
 Tom Petty and the Heartbreakers,Bob Dylan,5
 Tom Petty and the Heartbreakers,Bruce Springsteen,2
 Tom Petty and the Heartbreakers,George Harrison,3
@@ -312,211 +537,40 @@ Tom Petty and the Heartbreakers,The Byrds,1
 Tom Petty and the Heartbreakers,The Wallflowers,1
 Tom Petty and the Heartbreakers,Tom Petty,55
 Tom Petty and the Heartbreakers,Traveling Wilburys,4
-Nas,Eminem,1
-Chuck Berry,Bob Dylan,1
-Chuck Berry,Bruce Springsteen,2
-Chuck Berry,David Bowie,1
-Chuck Berry,Elvis Presley,1
-Chuck Berry,Eric Clapton,1
-Chuck Berry,Grateful Dead,1
-Chuck Berry,John Lennon,1
-Chuck Berry,Keith Richards,2
-Chuck Berry,Muddy Waters,5
-Chuck Berry,Nat King Cole,1
-Chuck Berry,The Beatles,3
-Sonny & Cher,Elton John,1
-Sonny & Cher,Elvis Presley,2
-Sonny & Cher,Frank Sinatra,1
-Sonny & Cher,The Beatles,1
-The Hollies,Bob Dylan,3
-The Hollies,Bruce Springsteen,1
-The Hollies,David Crosby,1
-The Hollies,Elton John,3
-The Hollies,The Beatles,6
-Mick Jagger,Bob Dylan,1
-Mick Jagger,Chuck Berry,1
-Mick Jagger,David Bowie,4
-Mick Jagger,Dire Straits,1
-Mick Jagger,Elvis Presley,1
-Mick Jagger,Keith Richards,13
-Mick Jagger,Muddy Waters,1
-Jakob Dylan,Bob Dylan,4
-Jakob Dylan,Cat Power,2
-Jakob Dylan,Eric Clapton,2
-Jakob Dylan,Hank Williams,3
-Jakob Dylan,John Lennon,1
-Jakob Dylan,Nas,1
-Jakob Dylan,The Band,5
-Jakob Dylan,The Turtles,2
-Jakob Dylan,The Wallflowers,50
-Jakob Dylan,Tom Petty,1
-Jakob Dylan,Tom Petty and the Heartbreakers,1
-New Lost City Ramblers,Bob Dylan,1
-Blur (band),The Beatles,1
-Mike Bloomfield,Bob Dylan,7
-Mike Bloomfield,Chuck Berry,2
-Mike Bloomfield,Jerry Garcia,1
-Mike Bloomfield,Muddy Waters,4
-Mike Bloomfield,"Peter, Paul and Mary",2
-Elton John,Elvis Presley,1
-Elton John,Eminem,2
-Elton John,Eric Clapton,5
-Elton John,George Harrison,1
-Elton John,Guns N' Roses,3
-Elton John,John Lennon,3
-Elton John,Keith Richards,1
-Elton John,Mick Jagger,1
-Elton John,Nas,2
-Elton John,Paul McCartney,2
-Elton John,The Beatles,3
-Elton John,The Hollies,1
-George Harrison,Bob Dylan,4
-George Harrison,Chuck Berry,2
-George Harrison,David Crosby,1
-George Harrison,Elton John,1
-George Harrison,Elvis Presley,1
-George Harrison,Eric Clapton,9
-George Harrison,Frank Sinatra,1
-George Harrison,John Lennon,8
-George Harrison,Neil Young,1
-George Harrison,Paul McCartney,2
-George Harrison,Paul Simon,2
-George Harrison,Roy Orbison,1
-George Harrison,The Band,2
-George Harrison,The Beatles,81
-George Harrison,The Byrds,4
-George Harrison,Tom Petty,5
-George Harrison,Traveling Wilburys,10
-George Harrison,Yoko Ono,1
-Paul McCartney,Bob Dylan,1
-Paul McCartney,Chuck Berry,2
-Paul McCartney,David Bowie,2
-Paul McCartney,Elton John,1
-Paul McCartney,Elvis Presley,3
-Paul McCartney,Eric Clapton,2
-Paul McCartney,George Harrison,5
-Paul McCartney,Grateful Dead,3
-Paul McCartney,John Lennon,10
-Paul McCartney,Keith Richards,1
-Paul McCartney,Paul Simon,2
-Paul McCartney,The Beatles,123
-Paul McCartney,Yoko Ono,3
-Hank Williams,Bob Dylan,2
-Hank Williams,Chuck Berry,1
-Hank Williams,Elvis Presley,2
-Hank Williams,Jakob Dylan,1
-Hank Williams,Johnny Cash,2
-John Lennon,Bob Dylan,1
-John Lennon,David Bowie,4
-John Lennon,Elton John,4
-John Lennon,Elvis Presley,1
-John Lennon,Eric Clapton,1
-John Lennon,George Harrison,5
-John Lennon,Keith Richards,1
-John Lennon,Mick Jagger,2
-John Lennon,Paul McCartney,6
-John Lennon,The Beatles,78
-John Lennon,Yoko Ono,18
-Steve Goodman,Johnny Cash,2
-Steve Goodman,Willie Nelson,2
-Paul Simon,Bob Dylan,4
-Paul Simon,Chuck Berry,2
-Paul Simon,George Harrison,1
-Paul Simon,John Lennon,1
-Paul Simon,Leonard Cohen,2
-Paul Simon,Paul McCartney,1
-Paul Simon,The Beatles,1
-Paul Simon,Woody Guthrie,1
-Elvis Presley,Bob Dylan,1
-Elvis Presley,Chuck Berry,1
-Elvis Presley,Frank Sinatra,7
-Elvis Presley,John Lennon,1
-Elvis Presley,Johnny Cash,2
-Elvis Presley,Nas,25
-Elvis Presley,Paul McCartney,1
-Elvis Presley,Roy Orbison,1
-Elvis Presley,The Beatles,11
-Eric Clapton,Bob Dylan,3
-Eric Clapton,David Bowie,1
-Eric Clapton,Dire Straits,2
-Eric Clapton,Elton John,6
-Eric Clapton,George Harrison,13
-Eric Clapton,John Lennon,3
-Eric Clapton,Keith Richards,1
-Eric Clapton,Manfred Mann,1
-Eric Clapton,Muddy Waters,2
-Eric Clapton,Nas,2
-Eric Clapton,Paul McCartney,2
-Eric Clapton,Robert Johnson,11
-Eric Clapton,Stevie Ray Vaughan,2
-Eric Clapton,The Band,7
-Eric Clapton,The Beatles,9
-Eric Clapton,The Hollies,1
-Eric Clapton,Tom Petty,2
-Eric Clapton,Tom Petty and the Heartbreakers,1
-Eric Clapton,Willie Nelson,1
+Bruce Springsteen,Bob Dylan,3
+Bruce Springsteen,Eddie Vedder,1
+Bruce Springsteen,Elvis Presley,2
+Bruce Springsteen,Frank Sinatra,1
+Bruce Springsteen,Joe Strummer,1
+Bruce Springsteen,Patti Smith,1
+Bruce Springsteen,The Beatles,4
+Bruce Springsteen,Woody Guthrie,1
+Junior Parker,Elvis Presley,1
+Mick Ronson,Bob Dylan,7
+Mick Ronson,David Bowie,8
+Mick Ronson,Elton John,3
+Mick Ronson,Elvis Presley,1
+Mick Ronson,Eric Clapton,1
+Mel Tormé,Frank Sinatra,2
+Mel Tormé,Nat King Cole,3
 Johnny Cash,Bob Dylan,5
 Johnny Cash,Elvis Presley,3
-Johnny Cash,Hank Williams,1
 Johnny Cash,Joni Mitchell,1
-Johnny Cash,Nas,15
 Johnny Cash,Neil Young,1
 Johnny Cash,Paul McCartney,1
 Johnny Cash,Roy Orbison,3
 Johnny Cash,The Beatles,1
-Johnny Cash,Tom Petty,2
 Johnny Cash,Tom Petty and the Heartbreakers,2
 Johnny Cash,Tom Waits,1
 Johnny Cash,Willie Nelson,8
-Dire Straits,Bob Dylan,4
-Dire Straits,Bruce Springsteen,1
-Dire Straits,Chuck Berry,1
-Dire Straits,Elton John,1
-Dire Straits,Eric Clapton,4
-Dire Straits,Nas,1
-Dire Straits,Tom Petty,1
-Dire Straits,Tom Petty and the Heartbreakers,1
-Grateful Dead,Bob Dylan,5
-Grateful Dead,Jerry Garcia,18
-Grateful Dead,Nas,2
-Grateful Dead,Robert Hunter (lyricist),4
-Grateful Dead,The Band,1
-Grateful Dead,The Beatles,2
-Jeff Tweedy,Bob Dylan,2
-Jeff Tweedy,Neil Young,2
-Jeff Tweedy,The Beatles,2
-Jeff Tweedy,Woody Guthrie,2
-Stevie Ray Vaughan,Chuck Berry,1
-Stevie Ray Vaughan,David Bowie,6
-Stevie Ray Vaughan,David Crosby,1
-Stevie Ray Vaughan,Eric Clapton,4
-Stevie Ray Vaughan,Mick Jagger,1
-Stevie Ray Vaughan,Muddy Waters,4
-Jerry Garcia,Bob Dylan,3
-Jerry Garcia,Chuck Berry,3
-Jerry Garcia,David Crosby,1
-Jerry Garcia,Grateful Dead,59
-Jerry Garcia,John Lee Hooker,1
-Jerry Garcia,Nas,5
-Jerry Garcia,Robert Hunter (lyricist),2
-Prince (musician),Chuck Berry,1
-Prince (musician),David Bowie,2
-Prince (musician),Elvis Presley,1
-Prince (musician),George Harrison,1
-Prince (musician),Joni Mitchell,2
-Prince (musician),Mick Jagger,1
-Prince (musician),The Beatles,1
-The Beatles,Bob Dylan,3
-The Beatles,Chuck Berry,1
-The Beatles,Elton John,1
-The Beatles,Elvis Presley,3
-The Beatles,Eric Clapton,2
-The Beatles,George Harrison,12
-The Beatles,John Lennon,17
-The Beatles,Paul McCartney,16
-The Beatles,Roy Orbison,4
-The Beatles,The Byrds,2
-The Beatles,Yoko Ono,4
+Nat King Cole,Frank Sinatra,5
+Nat King Cole,Mel Tormé,1
+The Wallflowers,Bob Dylan,1
+The Wallflowers,David Bowie,3
+The Wallflowers,Eric Clapton,1
+The Wallflowers,Jakob Dylan,14
+The Wallflowers,Neil Young,1
+The Wallflowers,The Beatles,1
 Tom Petty,Bob Dylan,3
 Tom Petty,Chuck Berry,1
 Tom Petty,Elvis Presley,1
@@ -526,125 +580,22 @@ Tom Petty,Johnny Cash,3
 Tom Petty,Keith Richards,1
 Tom Petty,Mick Jagger,1
 Tom Petty,Roy Orbison,3
-Tom Petty,The Beatles,4
 Tom Petty,Tom Petty and the Heartbreakers,29
 Tom Petty,Traveling Wilburys,13
-Bruce Springsteen,Bob Dylan,3
-Bruce Springsteen,Eddie Vedder,1
-Bruce Springsteen,Elvis Presley,2
-Bruce Springsteen,Frank Sinatra,1
-Bruce Springsteen,Joe Strummer,1
-Bruce Springsteen,Manfred Mann,1
-Bruce Springsteen,Nas,1
-Bruce Springsteen,Patti Smith,1
-Bruce Springsteen,The Beatles,4
-Bruce Springsteen,Woody Guthrie,1
-Woody Guthrie,Bob Dylan,8
-Woody Guthrie,Bruce Springsteen,3
-Woody Guthrie,Jeff Tweedy,1
-Woody Guthrie,Jerry Garcia,1
-Woody Guthrie,Joe Strummer,1
-Woody Guthrie,Johnny Cash,1
-Woody Guthrie,Nas,3
-Woody Guthrie,Odetta,1
-Woody Guthrie,Robert Hunter (lyricist),1
-Woody Guthrie,The Band,1
-Manfred Mann,Bob Dylan,1
-Tom Verlaine,Bob Dylan,3
-Tom Verlaine,Patti Smith,3
-Tom Verlaine,Sonic Youth,1
-Odetta,Bob Dylan,5
-Odetta,Joan Baez,4
-Odetta,"Peter, Paul and Mary",2
-Odetta,The Clancy Brothers,1
-Odetta,Woody Guthrie,1
-Traveling Wilburys,Bob Dylan,14
-Traveling Wilburys,Dire Straits,1
-Traveling Wilburys,George Harrison,20
-Traveling Wilburys,Grateful Dead,1
-Traveling Wilburys,Roy Orbison,11
-Traveling Wilburys,The Beatles,5
-Traveling Wilburys,Tom Petty,19
-Traveling Wilburys,Tom Petty and the Heartbreakers,7
-Blind Willie McTell,Bob Dylan,4
-Mason Jennings,Bob Dylan,1
-David Crosby,Bob Dylan,2
-David Crosby,Elton John,1
-David Crosby,Grateful Dead,3
-David Crosby,Jerry Garcia,1
-David Crosby,Joni Mitchell,2
-David Crosby,Neil Young,4
-David Crosby,The Byrds,24
-David Crosby,The Hollies,2
-Fred Neil,Bob Dylan,2
-Fred Neil,David Crosby,3
-Fred Neil,Elvis Presley,1
-Fred Neil,Joni Mitchell,2
-Fred Neil,Roy Orbison,3
-The Byrds,Bob Dylan,12
-The Byrds,David Crosby,17
-The Byrds,Joni Mitchell,1
-The Byrds,Keith Richards,1
-The Byrds,Mick Jagger,1
-The Byrds,Nas,21
-The Byrds,Neil Young,3
-The Byrds,Patti Smith,2
-The Byrds,Roy Orbison,1
-The Byrds,Sonny & Cher,1
-The Byrds,The Beatles,13
-The Byrds,Tom Petty,2
-The Byrds,Tom Petty and the Heartbreakers,1
-Joan Baez,Bob Dylan,13
-Joan Baez,Bruce Springsteen,1
-Joan Baez,John Lennon,2
-Joan Baez,Joni Mitchell,1
-Joan Baez,Leonard Cohen,3
-Joan Baez,Nas,3
-Joan Baez,Odetta,4
-Joan Baez,Paul McCartney,1
-Joan Baez,Paul Simon,2
-Joan Baez,The Band,2
-Joan Baez,The Beatles,1
-Joan Baez,Woody Guthrie,3
-Robert Johnson,Bob Dylan,3
-Robert Johnson,Eric Clapton,4
-Robert Johnson,Keith Richards,5
-Robert Johnson,Mick Jagger,1
-Robert Johnson,Muddy Waters,1
-Julie Driscoll,Bob Dylan,1
-Julie Driscoll,Manfred Mann,1
-The Band,Black C,3
-The Band,Bob Dylan,25
-The Band,Elton John,2
-The Band,Eric Clapton,5
-The Band,George Harrison,3
-The Band,Grateful Dead,5
-The Band,Jakob Dylan,1
-The Band,Jerry Garcia,1
-The Band,Joni Mitchell,1
-The Band,Muddy Waters,1
-The Band,Neil Young,1
-The Band,The Byrds,3
-The Band,The Wallflowers,1
-The Band,Woody Guthrie,1
-Guns N' Roses,Bruce Springsteen,1
-Guns N' Roses,Elton John,4
-Guns N' Roses,John Lennon,2
-Guns N' Roses,Neil Young,1
-Guns N' Roses,Paul McCartney,1
-Guns N' Roses,The Beatles,2
-Roy Orbison,Bob Dylan,5
-Roy Orbison,Bruce Springsteen,5
-Roy Orbison,Elton John,1
-Roy Orbison,Elvis Presley,8
-Roy Orbison,George Harrison,3
-Roy Orbison,Hank Williams,2
-Roy Orbison,John Lennon,1
-Roy Orbison,Johnny Cash,8
-Roy Orbison,Mick Jagger,1
-Roy Orbison,Nas,16
-Roy Orbison,The Beatles,5
-Roy Orbison,Tom Petty,3
-Roy Orbison,Tom Waits,2
-Roy Orbison,Traveling Wilburys,12
-Roy Orbison,Willie Nelson,1
+Elvis Presley,Bob Dylan,1
+Elvis Presley,Chuck Berry,1
+Elvis Presley,Frank Sinatra,7
+Elvis Presley,John Lennon,1
+Elvis Presley,Johnny Cash,2
+Elvis Presley,Paul McCartney,1
+Elvis Presley,Roy Orbison,1
+Elvis Presley,The Beatles,11
+Yoko Ono,Cat Power,1
+Yoko Ono,Cyndi Lauper,1
+Yoko Ono,Eric Clapton,3
+Yoko Ono,George Harrison,2
+Yoko Ono,John Lennon,46
+Yoko Ono,Paul McCartney,4
+Yoko Ono,Paul Simon,2
+Yoko Ono,Sonic Youth,3
+Yoko Ono,The Beatles,26

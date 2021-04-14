@@ -60,10 +60,10 @@ def convert_xml_to_csv(path_xml, path_csv):
 
     # Obtaining the full path of all XML files of singers and musical groups contained within the specified path.
     singer_files = os.listdir(os.path.join(path_xml, 'singers'))
-    singer_files = [os.path.join(path_xml, 'singers', xml_file) for xml_file in singer_files]
+    singer_files = [os.path.join(path_xml, 'singers', xml_file) for xml_file in singer_files if os.path.splitext(xml_file)[1] == '.xml']
 
     musical_groups_files = os.listdir(os.path.join(path_xml, 'musical_groups'))
-    musical_groups_files = [os.path.join(path_xml, 'musical_groups', xml_file) for xml_file in musical_groups_files]
+    musical_groups_files = [os.path.join(path_xml, 'musical_groups', xml_file) for xml_file in musical_groups_files if os.path.splitext(xml_file)[1] == '.xml']
 
     all_files = singer_files + musical_groups_files
 
@@ -145,7 +145,7 @@ def initialize_matrix(path_csv, path_matrix):
 
     # Obtaining all CSV files.
     csv_files = os.listdir(path_csv)
-    csv_files = [os.path.join(path_csv, csv_file) for csv_file in csv_files]
+    csv_files = [os.path.join(path_csv, csv_file) for csv_file in csv_files if os.path.splitext(csv_file)[1] == '.csv']
 
     # Here we obtain the total number of files in order to keep track of the processing and create a variable to count 
     # how many files have been processed.
@@ -199,7 +199,7 @@ def build_matrix(path_csv, path_matrix):
 
     # Obtaining all CSV files. They contain the texts of the Wikipedia articles for each artist.
     csv_files = os.listdir(path_csv)
-    csv_files = [os.path.join(path_csv, csv_file) for csv_file in csv_files]
+    csv_files = [os.path.join(path_csv, csv_file) for csv_file in csv_files if os.path.splitext(csv_file)[1] == '.csv']
 
     # Obtaining all unique artist names. These will come from the matrix initialized in the initialize_matrix function.
     df_matrix = pd.read_csv(os.path.join(path_matrix, 'matrix.csv'), sep=',', encoding='UTF-8')
@@ -257,7 +257,11 @@ def build_matrix(path_csv, path_matrix):
 
                 # Here, we look for the link (which is between a pair of brackets) to the page of that artist in the Wikipedia text we are currently
                 # analyzing.
-                number_of_mentions_via_hyperlink = wikipedia_text.count("[[" + str(mentioned_artist))
+                number_of_mentions_via_hyperlink = wikipedia_text.count("[[" + str(mentioned_artist) + ']]')
+
+                # HLinks can also appear with an opening pair of brackets and a closing pipe "|". Those types of links are used to format the title
+                # of the linked article into something slightly different.
+                number_of_mentions_via_hyperlink = number_of_mentions_via_hyperlink + wikipedia_text.count("[[" + str(mentioned_artist) + '|')
 
                 # Sometimes, to make matters a little trickier, the link does not actually contain the band's name in its 100% "raw" state. There are
                 # cases, observed especially with bands starting with the article "The", where the link fill feature the first "t" in a non-capitalized
@@ -274,7 +278,9 @@ def build_matrix(path_csv, path_matrix):
                     link_non_capitalized_double_check = ' '.join(link_non_capitalized_double_check)
 
                     # And now we check for other mentions via link.
-                    number_of_mentions_via_hyperlink = wikipedia_text.count("[[" + str(link_non_capitalized_double_check)) + number_of_mentions_via_hyperlink
+                    number_of_mentions_via_hyperlink = wikipedia_text.count("[[" + str(link_non_capitalized_double_check) + ']]') + \
+                    wikipedia_text.count("[[" + str(mentioned_artist) + '|') + \
+                    number_of_mentions_via_hyperlink
 
                 # Now we need to check for mentions without a link. Before doing that, we need to remove the part of the artist's name
                 # used by Wikipedia for disambiguations. Below, we remove all text between parentheses, with the parentheses included.
