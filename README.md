@@ -26,7 +26,7 @@ The image above shows bands mentioned in The Clash's Wikipedia article and how t
 
 In general terms, this repository contains:
 
-* The code used to process raw Wikipedia pages and turn them into a neat dataset with two columns: the name of the artist (ARTIST_NAME), and a list of tuples with the artists that are mentioned and how many times they are referred to (MENTIONED_ARTISTS).
+* The code used to process raw Wikipedia pages and turn them into a neat dataset with three columns: the name of the artist (ARTIST_NAME); and a list of tuples with the artists that are mentioned and how many times they are referred to (MENTIONED_ARTISTS); the Wikipedia category from which the article came (ARTIST_CATEGORY).
 
 * The dataset itself.
 
@@ -61,7 +61,7 @@ Here's a description of the repository's structure and the files it contains. Fo
 
 ### Code Folder
 
-* build_matrix_from_raw_data.py - The code that builds the dataset. I have yet to optimize it (some parallel processing would do it good), so it can be a bit slow since it involves a lot of text searches. Basically, it processes the downloaded XMLs by turning them into clean CSVs, and then uses those to build the final dataset.
+* build_matrix_from_raw_data.py - The code that builds the dataset. I have yet to optimize it completely (though it has parallel processing), so it can be a bit slow since it involves a lot of text searches. Basically, it processes the downloaded XMLs by turning them into clean CSVs, and then uses those to build the final dataset.
 
 * build_graph_mentions_from_root.py - Code that reads the dataset and builds a CSV that can be fed into Gephi to generate graph visualizations of the links. It takes two parameters: the root_node and the depth. The root_node is the name of an artist and the depth determines how "far away" from that artist the code will go to build the CSV. If depth is 1, the CSV will include all links between the root_node artist and the artists mentioned in its Wikipedia article. If depth is 2, the CSV will include all links between the root_node, the artists mentioned in its Wikipedia article, and the artists mentioned in the articles of these other artists. And so forth.
 
@@ -77,7 +77,7 @@ $ python build_graph_mentions_from_root.py --root_node 'Neil Young' --depth 1
 $ python build_graph_mentions_to_root.py --root_node 'The Beatles' --depth 1
 ```
 
-Note that root_node needs to have the name of the artist exactly as it is on the title of its Wikipedia article. For example, the title of the article of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles) is simply "The Beatles", so that one is easy. But many artists, like [The Replacements](https://en.wikipedia.org/wiki/The_Replacements_(band)), have article titles that include the disambiguation term; in that case, root_node needs to include that part, so root_node should be "The Replacements (band)".
+Note that root_node needs to have the name of the artist exactly as it is on the title of its Wikipedia article. For example, the title of the article of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles) is simply "The Beatles", so that one is easy. But many artists, like [The Replacements](https://en.wikipedia.org/wiki/The_Replacements_(band), have article titles that include the disambiguation term; in that case, root_node needs to include that part, so root_node should be "The Replacements (band)".
 
 ### Data Folder
 
