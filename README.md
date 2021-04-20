@@ -1,6 +1,6 @@
 # Wikipedia Music Tree
 
-This repository was created to store scripts that were used in the construction and processing of a dataset containing the links that exist between the Wikipedia articles of musical artists. 
+This repository was created to store scripts that were used in the construction and processing of a dataset containing the links that exist between the Wikipedia articles of musical artists. This dataset has been made available in [Kaggle](https://www.kaggle.com/matwario/wikipedia-music-links).
 
 It also has some images, made with [Gephi](https://gephi.org/), that display (in the shape of graphs) data visualizations of these links.
 
