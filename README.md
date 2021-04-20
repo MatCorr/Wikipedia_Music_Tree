@@ -26,7 +26,7 @@ The image above shows bands mentioned in The Clash's Wikipedia article and how t
 
 In general terms, this repository contains:
 
-* The code used to process raw Wikipedia pages and turn them into a neat dataset with three columns: the name of the artist (ARTIST_NAME); and a list of tuples with the artists that are mentioned and how many times they are referred to (MENTIONED_ARTISTS); the Wikipedia category from which the article came (ARTIST_CATEGORY).
+* The code used to process raw Wikipedia pages and turn them into a neat dataset with three columns: the name of the artist (ARTIST_NAME); and a list of tuples with the artists that are mentioned and how many times they are referred to (MENTIONED_ARTISTS); the Wikipedia category from which the article came (ARTIST_CATEGORY). Note that, in the code, this category is extracted from the name of the XML file that contains the raw article.
 
 * The dataset itself.
 
