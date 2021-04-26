@@ -36,6 +36,8 @@ In general terms, this repository contains:
 
 * A bunch of examples (in PDF and PNG format) of the visualizations generated with those CSVs. Note that the PDFs are ideal for this type of visualization since images lose a lot of quality when zooming in.
 
+* Some notebooks containing extra data analyses.
+
 ## Dataset Information
 
 In order for the dataset to be generated exclusively with articles about musical artists, they had to be acquired manually from Wikipedia. The site employs categories to organize articles, and these can in turn be used in [this page](https://en.wikipedia.org/wiki/Special:Export) so that a XML can be downloaded. This XML will have the full content of all articles from the informed category.
@@ -98,3 +100,7 @@ This one is just for show. I added PDF and PNG versions of the visualizations I 
 Just as an added note on these images, the size of the nodes and the size of the artists' names correspond to how many links there are coming in and out of their articles. Meanwhile, the thickness of the edges is related to the number of mentions between artists: a very thick line between R.E.M. and The Minus 5, as seen below, shows their articles refer to one another quite a bit. Plus, with the configuration in which the graph was generated, there is no distinction made between incoming and outgoing links; they are joined in the same edge.
 
 ![R.E.M. - Links](images/rem_mentions_from.png)
+
+### Notebook Folder
+
+In case I produce any extra data analyses with the dataset, I will add them to this folder in the form of notebooks.
